@@ -1,0 +1,4213 @@
+gauge_id: 02246000
+the catchment area is:  451.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2246000.         0.45      -0.94       2.02      -1.53       1.53]
+gauge_id: 12390700
+the catchment area is:  469.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12390700.         -1.59       -0.11       -1.76        0.68       -0.68]
+gauge_id: 08104900
+the catchment area is:  347.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8104900.         0.28      -0.65       1.02      -1.16       1.16]
+gauge_id: 01170100
+the catchment area is:  109.26  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1170100.         1.36       2.07      -1.48       2.7       -2.7 ]
+gauge_id: 01568000
+the catchment area is:  536.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1568000.         1.51       1.02       1.16       0.45      -0.45]
+gauge_id: 02235200
+the catchment area is:  300.67  km^2
+number of years in the record:  35
+tie in gauge: 02235200
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02235200
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02235200
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02235200
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02235200
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2235200.         0.         2.31      -2.31       2.31      -2.31]
+gauge_id: 14316700
+the catchment area is:  588.01  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14316700.         -0.8        -0.31       -0.97        0.          0.  ]
+gauge_id: 01030500
+the catchment area is:  3676.09  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1030500.         2.27       1.79       0.57       0.94      -0.94]
+gauge_id: 01594950
+the catchment area is:  6.1  km^2
+number of years in the record:  29
+tie in gauge: 01594950
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01594950
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01594950
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01594950
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01594950
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[1594950.         0.49       0.58      -0.58       0.54      -0.54]
+gauge_id: 05131500
+the catchment area is:  4344.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5131500.        -1.45      -0.62      -1.02       0.         0.  ]
+gauge_id: 04233000
+the catchment area is:  92.63  km^2
+number of years in the record:  33
+Mann-Kendall Statistic
+[4233000.         1.84       1.84       0.02       1.53      -1.53]
+gauge_id: 14301000
+the catchment area is:  1745.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14301000.         -0.85        0.31       -2.78        2.39       -2.39]
+gauge_id: 04059500
+the catchment area is:  1188.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4059500.        -1.16      -2.47       1.31      -2.61       2.61]
+gauge_id: 03285000
+the catchment area is:  823.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3285000.         0.26      -0.26       0.82      -1.05       0.11]
+gauge_id: 14185000
+the catchment area is:  449.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14185000.         -1.45        0.03       -3.55        3.38       -3.38]
+gauge_id: 03078000
+the catchment area is:  165.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3078000.         0.94       0.48       1.16      -0.23       0.23]
+gauge_id: 02469800
+the catchment area is:  422.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2469800.        -0.65      -0.65      -0.34      -0.6        0.6 ]
+gauge_id: 01547700
+the catchment area is:  115.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1547700.         0.77      -0.37       1.48      -0.51       0.51]
+gauge_id: 02070000
+the catchment area is:  279.27  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2070000.         0.34      -1.33       2.1       -1.93       1.93]
+gauge_id: 02011400
+the catchment area is:  409.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2011400.        -0.37      -0.88       0.31      -0.57       0.57]
+gauge_id: 03161000
+the catchment area is:  533.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3161000.        -0.03      -0.09      -0.43       0.54      -0.54]
+gauge_id: 04124000
+the catchment area is:  2288.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4124000.         0.54      -0.43       1.39      -1.16       1.16]
+gauge_id: 06888500
+the catchment area is:  842.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6888500.         0.54      -1.14       2.76      -1.87       1.87]
+gauge_id: 01550000
+the catchment area is:  456.32  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1550000.         1.39       0.85       1.65      -0.14       0.14]
+gauge_id: 06450500
+the catchment area is:  4074.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6450500.        -0.26       1.51      -0.45       2.13      -2.13]
+gauge_id: 14137000
+the catchment area is:  676.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14137000.          0.          0.8        -1.19        0.99       -0.99]
+gauge_id: 12375900
+the catchment area is:  19.73  km^2
+number of years in the record:  33
+tie in gauge: 12375900
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12375900
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12375900
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12375900
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12375900
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[12375900.          0.47        0.76       -0.79        0.79       -0.79]
+gauge_id: 11151300
+the catchment area is:  648.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11151300.         -1.59       -0.74       -1.68       -0.03        0.03]
+gauge_id: 02128000
+the catchment area is:  271.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2128000.        -0.97      -2.02       1.11      -1.9        1.9 ]
+gauge_id: 14096850
+the catchment area is:  384.27  km^2
+number of years in the record:  32
+tie in gauge: 14096850
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14096850
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14096850
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14096850
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14096850
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14096850.          0.          0.16       -0.16        0.16       -0.16]
+gauge_id: 07340300
+the catchment area is:  252.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7340300.        -0.17      -1.42       1.08      -1.7        1.7 ]
+gauge_id: 05514500
+the catchment area is:  2410.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5514500.         0.57       0.14       1.08      -0.06       0.06]
+gauge_id: 03460000
+the catchment area is:  127.62  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3460000.         0.         0.65      -2.22       0.94      -0.94]
+gauge_id: 09047700
+the catchment area is:  24.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9047700.         1.56      -1.08       2.47      -1.76       1.76]
+gauge_id: 11383500
+the catchment area is:  634.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11383500.         -0.8        -0.48       -0.99        0.6        -0.6 ]
+gauge_id: 01435000
+the catchment area is:  183.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1435000.         2.33       2.41      -1.56       1.68      -2.61]
+gauge_id: 06409000
+the catchment area is:  209.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6409000.         0.68       0.71       0.34       0.82      -0.82]
+gauge_id: 06479215
+the catchment area is:  178.1  km^2
+number of years in the record:  31
+tie in gauge: 06479215
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 06479215
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 06479215
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 06479215
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 06479215
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[6479215.         0.72       0.78      -0.41       0.78      -0.41]
+gauge_id: 01583500
+the catchment area is:  163.42  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1583500.         1.76       1.51       1.36       0.85      -0.85]
+gauge_id: 13018300
+the catchment area is:  29.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13018300.         -0.17       -0.97        0.17       -0.82        0.82]
+gauge_id: 06846500
+WARNING::this catchment is not in the CAMELS attributes: 
+Moving on to the next one...
+gauge_id: 12095000
+the catchment area is:  233.35  km^2
+number of years in the record:  28
+tie in gauge: 12095000
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 12095000
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 12095000
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 12095000
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 12095000
+tie score:  [11286.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[12095000.          0.41        1.38       -1.38        1.38       -1.38]
+gauge_id: 11528700
+the catchment area is:  1982.54  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11528700.         -0.62       -0.68       -1.36        0.03       -0.03]
+gauge_id: 01487000
+the catchment area is:  187.18  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1487000.         1.36       1.28      -0.26       1.53      -1.53]
+gauge_id: 01667500
+the catchment area is:  1210.75  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1667500.        -0.23       0.09       0.17      -0.31       0.31]
+gauge_id: 11522500
+the catchment area is:  1946.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11522500.         -0.8        -0.31       -1.22        1.02       -1.02]
+gauge_id: 01548500
+the catchment area is:  1557.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1548500.         2.22       1.11       2.9       -0.34       0.34]
+gauge_id: 10396000
+the catchment area is:  969.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10396000.         -3.86       -1.02       -4.          2.7        -2.7 ]
+gauge_id: 05454000
+the catchment area is:  68.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5454000.         0.28       0.6        0.         1.11      -1.11]
+gauge_id: 03164000
+the catchment area is:  2963.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3164000.        -0.06      -0.09      -0.31      -0.03       0.03]
+gauge_id: 11274630
+the catchment area is:  284.39  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11274630.         -0.37       -0.48       -0.26       -0.54        0.54]
+gauge_id: 03500000
+the catchment area is:  362.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3500000.        -0.97       0.31      -1.9        1.08      -1.08]
+gauge_id: 06934000
+the catchment area is:  8267.52  km^2
+number of years in the record:  29
+tie in gauge: 06934000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 06934000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 06934000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 06934000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 06934000
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6934000.         0.         0.24      -0.24       0.24      -0.24]
+gauge_id: 08164600
+the catchment area is:  264.07  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8164600.        -0.43      -1.02       0.23      -1.33       1.33]
+gauge_id: 02140991
+the catchment area is:  522.11  km^2
+number of years in the record:  30
+tie in gauge: 02140991
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02140991
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02140991
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02140991
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02140991
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[2140991.         0.61       0.3       -0.3        0.3       -0.3 ]
+gauge_id: 12010000
+the catchment area is:  142.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12010000.         -1.7         0.17       -3.52        3.58       -3.58]
+gauge_id: 08198500
+the catchment area is:  640.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8198500.        -0.68      -1.68      -0.51      -1.62       1.62]
+gauge_id: 01466500
+the catchment area is:  6.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1466500.         2.05       0.68       1.93      -0.4        0.4 ]
+gauge_id: 06447000
+the catchment area is:  12869.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6447000.         0.17       0.45       0.11       0.74      -0.74]
+gauge_id: 10244950
+the catchment area is:  28.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10244950.         -2.02       -1.62       -0.88       -0.62        0.62]
+gauge_id: 02111180
+the catchment area is:  130.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2111180.         0.09      -0.65       0.99      -0.8        0.8 ]
+gauge_id: 11266500
+the catchment area is:  836.15  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11266500.         0.        -0.2        0.         0.         0. ]
+gauge_id: 06188000
+the catchment area is:  1730.62  km^2
+number of years in the record:  30
+tie in gauge: 06188000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06188000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06188000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06188000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06188000
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6188000.         0.         0.84      -0.84       0.84      -0.84]
+gauge_id: 06775500
+WARNING::this catchment is not in the CAMELS attributes: 
+Moving on to the next one...
+gauge_id: 06921070
+the catchment area is:  716.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6921070.         1.76      -0.45       3.24      -1.51       1.51]
+gauge_id: 02369800
+the catchment area is:  231.14  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2369800.        -0.23      -0.77       0.09      -0.51       0.51]
+gauge_id: 13337000
+the catchment area is:  3052.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13337000.         -1.22        0.03       -1.31        0.88       -0.88]
+gauge_id: 01054200
+the catchment area is:  181.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1054200.         2.84       1.59       1.56      -0.06       0.06]
+gauge_id: 02096846
+the catchment area is:  19.58  km^2
+number of years in the record:  27
+tie in gauge: 02096846
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 02096846
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 02096846
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 02096846
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 02096846
+tie score:  [34398.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2096846.         0.        -2.59       2.59      -2.59       2.59]
+gauge_id: 06406000
+the catchment area is:  437.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6406000.         0.97       1.45       0.8        1.39      -1.39]
+gauge_id: 09107000
+the catchment area is:  331.77  km^2
+number of years in the record:  28
+tie in gauge: 09107000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 09107000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 09107000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 09107000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 09107000
+tie score:  [38556.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[9107000.         0.         0.47      -0.47       0.47      -0.47]
+gauge_id: 01162500
+the catchment area is:  77.93  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1162500.         0.77       1.45      -0.54       2.56      -2.56]
+gauge_id: 09510200
+the catchment area is:  428.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9510200.        -2.56      -0.94      -2.84      -0.6        0.6 ]
+gauge_id: 02384540
+the catchment area is:  22.13  km^2
+number of years in the record:  30
+tie in gauge: 02384540
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02384540
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02384540
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02384540
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02384540
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2384540.        0.       -0.8       0.8      -0.8       0.8]
+gauge_id: 14139800
+the catchment area is:  41.21  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14139800.          0.37        1.73       -1.99        1.93       -1.93]
+gauge_id: 07263295
+the catchment area is:  119.08  km^2
+number of years in the record:  26
+tie in gauge: 07263295
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07263295
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07263295
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07263295
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07263295
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[7263295.         0.64       0.2       -0.2        0.2       -0.2 ]
+gauge_id: 12114500
+the catchment area is:  66.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12114500.         -0.62        1.33       -1.82        1.59       -1.59]
+gauge_id: 03180500
+the catchment area is:  346.48  km^2
+number of years in the record:  34
+Mann-Kendall Statistic
+[3180500.        -0.64      -0.34      -0.93       0.58      -0.58]
+gauge_id: 02427250
+the catchment area is:  680.64  km^2
+number of years in the record:  26
+tie in gauge: 02427250
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 02427250
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 02427250
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 02427250
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 02427250
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[2427250.         0.64      -0.95       2.01      -0.95       2.01]
+gauge_id: 05508805
+the catchment area is:  536.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5508805.        -0.28      -0.91       0.71      -0.68       0.68]
+gauge_id: 07261000
+the catchment area is:  455.94  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7261000.         0.94      -0.17       2.02      -0.85       0.85]
+gauge_id: 14308990
+the catchment area is:  171.31  km^2
+number of years in the record:  30
+tie in gauge: 14308990
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 14308990
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 14308990
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 14308990
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 14308990
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[14308990.          0.61        1.23       -1.23        1.23       -1.23]
+gauge_id: 06622700
+the catchment area is:  101.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6622700.         2.27       0.         2.16      -1.02       1.02]
+gauge_id: 03338780
+the catchment area is:  691.76  km^2
+number of years in the record:  27
+tie in gauge: 03338780
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03338780
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03338780
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03338780
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03338780
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[3338780.         0.75       0.25       0.71       0.29       0.71]
+gauge_id: 12082500
+the catchment area is:  360.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12082500.         -1.93        1.31       -4.54        4.4        -4.4 ]
+gauge_id: 05495000
+the catchment area is:  1029.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5495000.        -0.34      -0.23      -0.14      -0.09       0.09]
+gauge_id: 12186000
+the catchment area is:  398.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12186000.         -2.3         0.26       -3.21        2.87       -2.87]
+gauge_id: 08013000
+the catchment area is:  1300.18  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8013000.        -0.77      -2.07       2.81      -2.39       2.39]
+gauge_id: 14306340
+the catchment area is:  14.76  km^2
+number of years in the record:  32
+tie in gauge: 14306340
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14306340
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14306340
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14306340
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14306340
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14306340.          0.          1.56       -1.56        1.56       -1.56]
+gauge_id: 04056500
+the catchment area is:  2984.03  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4056500.         1.65      -1.31       2.5       -2.81       2.81]
+gauge_id: 12054000
+the catchment area is:  178.97  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12054000.         -1.33        0.09       -1.87        1.99       -1.99]
+gauge_id: 01606500
+the catchment area is:  1686.61  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1606500.         0.03      -0.4        0.88      -0.37       0.37]
+gauge_id: 11143000
+the catchment area is:  121.32  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11143000.         -0.8        -0.43       -0.57        0.97       -0.97]
+gauge_id: 01415000
+the catchment area is:  86.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1415000.         2.22       1.79       0.         0.65      -1.59]
+gauge_id: 03439000
+the catchment area is:  178.18  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3439000.        -1.31      -0.11      -2.7        1.68      -1.68]
+gauge_id: 03237500
+the catchment area is:  1001.42  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3237500.         1.33       0.65       0.88       0.77      -0.77]
+gauge_id: 02014000
+the catchment area is:  397.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2014000.        -0.31      -0.43       0.85      -0.62       0.62]
+gauge_id: 13240000
+the catchment area is:  126.02  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13240000.         -2.13       -0.31       -2.64        2.36       -2.36]
+gauge_id: 02298123
+the catchment area is:  541.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2298123.        -1.42       1.36      -2.78       2.19      -2.19]
+gauge_id: 01134500
+the catchment area is:  209.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1134500.         1.56       1.73       0.28       1.16      -1.16]
+gauge_id: 09035800
+the catchment area is:  22.91  km^2
+number of years in the record:  32
+Mann-Kendall Statistic
+[9035800.         2.17      -1.39       3.83      -3.31       3.31]
+gauge_id: 07196900
+the catchment area is:  106.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7196900.        -0.09      -0.23       0.88      -0.45       0.45]
+gauge_id: 07197000
+the catchment area is:  807.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7197000.        -0.45      -0.91       1.19      -1.16       1.16]
+gauge_id: 06903400
+the catchment area is:  483.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6903400.        -0.48       0.45      -1.99       0.71      -0.71]
+gauge_id: 06479438
+the catchment area is:  798.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6479438.        -0.2        1.62      -0.91       2.05      -2.05]
+gauge_id: 01350080
+the catchment area is:  89.57  km^2
+number of years in the record:  29
+tie in gauge: 01350080
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01350080
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01350080
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01350080
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 01350080
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[1350080.         0.11       1.43      -1.43       1.43      -1.43]
+gauge_id: 12167000
+the catchment area is:  691.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12167000.         -1.45        0.09       -2.22        2.05       -2.05]
+gauge_id: 12189500
+the catchment area is:  1858.59  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12189500.         -2.56        1.22       -3.49        3.64       -3.64]
+gauge_id: 05087500
+the catchment area is:  720.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5087500.         0.91       2.64       0.         2.76      -1.87]
+gauge_id: 03144000
+the catchment area is:  365.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3144000.        -0.26      -0.37      -0.03      -0.45       0.45]
+gauge_id: 06623800
+the catchment area is:  188.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6623800.         1.14       0.45       0.28       0.48      -0.48]
+gauge_id: 11230500
+the catchment area is:  142.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11230500.         -0.43       -0.88        0.43       -0.99        0.99]
+gauge_id: 08086290
+the catchment area is:  733.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8086290.        -0.09      -0.99       0.03      -0.8        0.8 ]
+gauge_id: 09035900
+the catchment area is:  71.67  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9035900.         1.39      -0.09       2.22      -1.85       1.85]
+gauge_id: 09535100
+WARNING::this catchment is not in the CAMELS attributes: 
+Moving on to the next one...
+gauge_id: 11274500
+the catchment area is:  530.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11274500.         -0.11       -0.27        0.28       -0.27        0.27]
+gauge_id: 12147500
+the catchment area is:  105.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12147500.         -0.68        1.42       -2.16        2.13       -2.13]
+gauge_id: 06847900
+the catchment area is:  1539.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6847900.         0.28       0.85       0.34       0.8       -0.8 ]
+gauge_id: 02342933
+the catchment area is:  290.04  km^2
+number of years in the record:  32
+Mann-Kendall Statistic
+[2342933.        -0.13       1.04      -1.62       1.14      -1.14]
+gauge_id: 02149000
+the catchment area is:  203.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2149000.         0.97      -1.14       2.61      -2.22       2.22]
+gauge_id: 12488500
+the catchment area is:  206.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12488500.         -0.06        0.6        -0.57        0.91       -0.91]
+gauge_id: 04213000
+the catchment area is:  466.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4213000.        -0.4        0.54      -1.59       1.19      -1.19]
+gauge_id: 08086212
+the catchment area is:  1590.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8086212.        -0.03      -1.53       0.14      -1.62       1.62]
+gauge_id: 06431500
+the catchment area is:  427.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6431500.         0.99       2.76      -0.06       2.61      -2.61]
+gauge_id: 08164000
+the catchment area is:  2120.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8164000.        -0.88      -0.85      -0.91      -0.71       0.71]
+gauge_id: 10259000
+the catchment area is:  23.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10259000.         -1.53       -2.95        2.05       -2.61        2.61]
+gauge_id: 05488200
+the catchment area is:  234.94  km^2
+number of years in the record:  30
+tie in gauge: 05488200
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 05488200
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 05488200
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 05488200
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 05488200
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[5488200.         0.         0.98      -0.98       0.98      -0.98]
+gauge_id: 02055100
+the catchment area is:  33.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2055100.         0.4       -0.54       1.42      -0.88       0.88]
+gauge_id: 05291000
+the catchment area is:  1058.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5291000.         1.02       1.79      -0.09       2.05      -2.05]
+gauge_id: 05408000
+the catchment area is:  689.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5408000.         0.82      -0.71       1.25      -1.56       1.56]
+gauge_id: 03592718
+the catchment area is:  67.0  km^2
+number of years in the record:  34
+Mann-Kendall Statistic
+[3592718.        -0.4       -1.05       1.14      -1.23       1.23]
+gauge_id: 12043000
+the catchment area is:  348.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12043000.          1.36        2.87       -0.91        4.2        -1.02]
+gauge_id: 13338500
+the catchment area is:  3025.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13338500.          0.         -0.77        0.62       -1.28        1.28]
+gauge_id: 02430085
+the catchment area is:  40.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2430085.        -0.06      -0.85       0.77      -1.16       1.16]
+gauge_id: 02108000
+the catchment area is:  1550.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2108000.         1.22      -0.62       1.9       -1.11       1.11]
+gauge_id: 10172800
+the catchment area is:  76.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10172800.         -1.33       -0.37       -1.56       -0.17        0.17]
+gauge_id: 14092750
+the catchment area is:  64.91  km^2
+number of years in the record:  33
+tie in gauge: 14092750
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 14092750
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 14092750
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 14092750
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 14092750
+tie score:  [64416.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14092750.          0.          0.82       -0.82        0.82       -0.82]
+gauge_id: 04216418
+the catchment area is:  196.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4216418.         1.48       1.25       1.14       0.54      -0.54]
+gauge_id: 11148900
+the catchment area is:  386.02  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11148900.         -0.91       -0.4        -0.6         0.57       -0.57]
+gauge_id: 06350000
+the catchment area is:  1506.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6350000.         0.34      -0.45      -0.03      -0.71       0.71]
+gauge_id: 02349900
+the catchment area is:  124.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2349900.         0.77      -0.68       2.1       -1.36       1.36]
+gauge_id: 09508300
+the catchment area is:  97.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9508300.        -2.9       -0.88      -3.83       0.         0.  ]
+gauge_id: 12388400
+the catchment area is:  76.56  km^2
+number of years in the record:  29
+tie in gauge: 12388400
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12388400
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12388400
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12388400
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12388400
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[12388400.          0.          0.88       -0.88        0.88       -0.88]
+gauge_id: 12451000
+the catchment area is:  830.32  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12451000.         -3.18        0.94       -3.41        3.35       -3.35]
+gauge_id: 02314500
+the catchment area is:  2808.45  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2314500.        -0.06      -1.02       0.68      -0.91       0.91]
+gauge_id: 12035000
+the catchment area is:  768.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12035000.         -1.05        0.45       -3.32        3.38       -3.38]
+gauge_id: 05123400
+the catchment area is:  3220.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5123400.         1.82       1.82       1.42       1.85      -1.85]
+gauge_id: 08324000
+the catchment area is:  1222.2  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8324000.        -3.32      -3.21      -2.78      -2.1        2.1 ]
+gauge_id: 07180500
+the catchment area is:  275.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7180500.         1.65       0.45       1.82       0.09      -0.09]
+gauge_id: 01634500
+the catchment area is:  264.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1634500.         0.97      -0.57       1.9       -1.08       1.08]
+gauge_id: 10205030
+the catchment area is:  150.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10205030.         -2.9        -2.16       -2.7        -0.48        0.48]
+gauge_id: 11468500
+the catchment area is:  273.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11468500.         -0.31       -0.71        0.11       -0.91        0.91]
+gauge_id: 12147600
+the catchment area is:  16.07  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12147600.         -0.51        1.19       -1.65        1.76       -1.76]
+gauge_id: 01123000
+the catchment area is:  84.21  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1123000.        -0.62      -0.11      -1.28       0.2       -1.14]
+gauge_id: 02202600
+the catchment area is:  623.34  km^2
+number of years in the record:  35
+tie in gauge: 02202600
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02202600
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02202600
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02202600
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02202600
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2202600.         0.        -1.65       1.65      -1.65       1.65]
+gauge_id: 06311000
+the catchment area is:  62.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6311000.         1.48       0.23       0.85      -0.2        0.2 ]
+gauge_id: 02464146
+the catchment area is:  15.84  km^2
+number of years in the record:  34
+tie in gauge: 02464146
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 02464146
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 02464146
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 02464146
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 02464146
+tie score:  [70686.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2464146.         0.         1.13      -1.13       1.13      -1.13]
+gauge_id: 04057800
+the catchment area is:  121.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4057800.        -1.42      -2.56       1.02      -2.44       2.44]
+gauge_id: 02215100
+the catchment area is:  425.51  km^2
+number of years in the record:  29
+tie in gauge: 02215100
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02215100
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02215100
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02215100
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02215100
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2215100.         0.        -0.17       0.17      -0.17       0.17]
+gauge_id: 08164300
+the catchment area is:  865.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8164300.        -1.11      -0.97      -1.16      -0.82       0.82]
+gauge_id: 04296000
+the catchment area is:  301.12  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4296000.         1.73       2.73      -2.05       3.69      -3.69]
+gauge_id: 09210500
+the catchment area is:  398.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9210500.        -0.74      -0.51      -0.88      -0.37       0.37]
+gauge_id: 04161580
+the catchment area is:  66.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4161580.         1.39      -0.77       1.9       -1.93       1.93]
+gauge_id: 09494000
+the catchment area is:  1628.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9494000.        -3.49      -2.64      -2.84      -1.9        1.9 ]
+gauge_id: 06447500
+the catchment area is:  793.15  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6447500.         0.         0.77      -0.06       1.25      -1.25]
+gauge_id: 08378500
+the catchment area is:  444.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8378500.        -2.39      -1.76      -1.93      -0.17       0.17]
+gauge_id: 01022500
+the catchment area is:  620.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1022500.         0.6        1.36      -2.5        1.96      -1.96]
+gauge_id: 02221525
+the catchment area is:  493.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2221525.        -0.4       -1.28       0.45      -1.73       1.73]
+gauge_id: 09378170
+the catchment area is:  21.99  km^2
+number of years in the record:  30
+tie in gauge: 09378170
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 09378170
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 09378170
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 09378170
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 09378170
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[9378170.         0.        -1.27       1.27      -1.27       1.27]
+gauge_id: 03280700
+the catchment area is:  158.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3280700.        -0.26      -0.09      -0.4       -0.43      -0.48]
+gauge_id: 07301500
+the catchment area is:  6885.01  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7301500.        -0.4       -1.08      -0.34      -1.11       1.11]
+gauge_id: 04221000
+the catchment area is:  751.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4221000.         1.59       1.16       0.99       1.05      -1.05]
+gauge_id: 06332515
+the catchment area is:  191.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6332515.         0.99       0.37       1.14       0.14      -0.14]
+gauge_id: 12175500
+the catchment area is:  274.05  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12175500.         -2.7         0.85       -2.9         2.84       -2.84]
+gauge_id: 05466500
+the catchment area is:  1163.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5466500.        -0.23       0.43      -1.7        0.71      -0.71]
+gauge_id: 05495500
+the catchment area is:  885.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5495500.        -0.68      -0.26      -1.51       0.11      -0.11]
+gauge_id: 05487980
+the catchment area is:  878.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5487980.        -0.62       0.2       -2.16       0.65      -0.65]
+gauge_id: 07057500
+the catchment area is:  1456.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7057500.         1.82      -0.28       2.61      -2.24       2.24]
+gauge_id: 08200000
+the catchment area is:  249.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8200000.        -0.8       -1.16      -0.11      -1.36       1.36]
+gauge_id: 01567500
+the catchment area is:  39.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1567500.         1.22       0.51       1.11       0.06      -0.06]
+gauge_id: 01591400
+the catchment area is:  59.61  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1591400.         1.11       1.33      -0.03       1.11      -1.11]
+gauge_id: 05593575
+the catchment area is:  220.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5593575.         0.48       0.74       0.26       0.74      -0.74]
+gauge_id: 02143000
+the catchment area is:  222.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2143000.        -0.26      -1.9        2.19      -1.85       1.85]
+gauge_id: 10259200
+the catchment area is:  284.58  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10259200.         -1.36       -2.19       -1.25       -2.24        2.24]
+gauge_id: 14141500
+the catchment area is:  60.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14141500.          0.4         0.8        -0.17        0.2        -0.2 ]
+gauge_id: 03241500
+the catchment area is:  173.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3241500.         0.85       0.71       0.2        0.48      -0.48]
+gauge_id: 03238500
+the catchment area is:  564.16  km^2
+number of years in the record:  33
+Mann-Kendall Statistic
+[3238500.         1.19       1.81      -0.82       1.75      -1.75]
+gauge_id: 03173000
+the catchment area is:  775.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3173000.         0.74       0.31       1.05      -0.06       0.06]
+gauge_id: 06910800
+the catchment area is:  444.58  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6910800.         0.57      -0.99       1.62      -1.51       1.51]
+gauge_id: 07292500
+the catchment area is:  2076.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7292500.        -0.45      -1.73       1.62      -2.36       2.36]
+gauge_id: 10316500
+the catchment area is:  90.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10316500.         -0.71       -0.45        0.17       -0.31        0.31]
+gauge_id: 02137727
+the catchment area is:  329.3  km^2
+number of years in the record:  35
+tie in gauge: 02137727
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02137727
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02137727
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02137727
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02137727
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2137727.        0.       -0.2       0.2      -0.2       0.2]
+gauge_id: 06614800
+the catchment area is:  4.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6614800.         1.25      -0.45       1.59      -1.53       1.53]
+gauge_id: 01142500
+the catchment area is:  79.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1142500.         1.82       2.05      -0.14       1.73      -1.73]
+gauge_id: 14138800
+the catchment area is:  21.83  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14138800.          0.09        0.8        -0.77        0.99       -0.99]
+gauge_id: 12115500
+the catchment area is:  43.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12115500.         -0.74        0.88       -1.99        1.99       -1.99]
+gauge_id: 02027500
+the catchment area is:  127.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2027500.         0.51      -0.37       1.42      -0.74       0.74]
+gauge_id: 05062500
+the catchment area is:  2435.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5062500.         2.34       3.59       1.58       3.73       0.41]
+gauge_id: 08176900
+the catchment area is:  925.53  km^2
+number of years in the record:  35
+tie in gauge: 08176900
+tie score:  [ 0. 36.  0.  0.  0.]
+tie in gauge: 08176900
+tie score:  [ 0. 36.  0.  0.  0.]
+tie in gauge: 08176900
+tie score:  [ 0. 36.  0. 36.  0.]
+tie in gauge: 08176900
+tie score:  [ 0. 36.  0. 36.  0.]
+Mann-Kendall Statistic
+[8176900.        -0.58      -0.95      -0.47      -1.04      -0.67]
+gauge_id: 10173450
+the catchment area is:  281.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10173450.         -1.53       -0.71       -1.53        0.          0.  ]
+gauge_id: 03213700
+the catchment area is:  2431.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3213700.         0.43       0.06       0.65      -0.17      -0.74]
+gauge_id: 02371500
+the catchment area is:  1257.42  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2371500.         0.77      -0.62       0.85      -0.94       0.94]
+gauge_id: 08158700
+the catchment area is:  321.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8158700.        -0.43      -0.57      -0.2       -0.54       0.54]
+gauge_id: 02481510
+the catchment area is:  801.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2481510.        -1.11      -0.99       0.54      -0.77       0.77]
+gauge_id: 10172700
+the catchment area is:  259.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10172700.         -2.02       -1.73       -1.96       -0.94        0.94]
+gauge_id: 14400000
+the catchment area is:  703.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14400000.         -0.45       -0.4         0.4         0.          0.  ]
+gauge_id: 06814000
+the catchment area is:  717.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6814000.        -0.11      -1.25       0.88      -1.65       1.65]
+gauge_id: 02015700
+the catchment area is:  286.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2015700.        -0.45       0.06      -0.09       0.23      -0.23]
+gauge_id: 09447800
+the catchment area is:  777.14  km^2
+number of years in the record:  34
+tie in gauge: 09447800
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 09447800
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 09447800
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 09447800
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 09447800
+tie score:  [70686.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[9447800.         0.        -2.42       2.42      -2.42       2.42]
+gauge_id: 09066000
+the catchment area is:  32.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9066000.         2.22      -0.65       3.27      -2.47       2.47]
+gauge_id: 14158500
+the catchment area is:  122.9  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14158500.         -1.9         0.91       -2.56        2.81       -2.81]
+gauge_id: 02374500
+the catchment area is:  458.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2374500.        -0.68      -1.19       0.4       -1.65       1.65]
+gauge_id: 07184000
+the catchment area is:  514.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7184000.         0.54       0.17       1.19       0.14      -0.14]
+gauge_id: 11451100
+the catchment area is:  155.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11451100.         -0.4        -0.37        0.28       -0.17        0.17]
+gauge_id: 04105700
+the catchment area is:  100.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4105700.        -0.34      -1.79       0.45      -1.65       1.65]
+gauge_id: 07056000
+the catchment area is:  2147.73  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7056000.        -0.11       0.         0.09       0.37      -0.37]
+gauge_id: 02350900
+the catchment area is:  1365.59  km^2
+number of years in the record:  30
+tie in gauge: 02350900
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02350900
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02350900
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02350900
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02350900
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2350900.         0.         0.16      -0.16       0.16      -0.16]
+gauge_id: 05503800
+the catchment area is:  212.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5503800.        -0.54      -0.45      -0.45      -0.03       0.03]
+gauge_id: 01187300
+the catchment area is:  54.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1187300.         0.44       0.         0.01      -0.36      -1.32]
+gauge_id: 14138900
+the catchment area is:  21.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14138900.          0.6         1.42       -1.42        1.16       -1.16]
+gauge_id: 14020000
+the catchment area is:  343.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14020000.         -0.99        0.68       -1.7         1.45       -1.45]
+gauge_id: 08079600
+the catchment area is:  3512.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8079600.        -1.59      -0.54      -1.56      -0.28      -0.45]
+gauge_id: 03384450
+the catchment area is:  112.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3384450.         0.48       0.23       0.74       0.         0.  ]
+gauge_id: 02231000
+the catchment area is:  1857.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2231000.         0.2       -0.91       1.28      -1.16       1.16]
+gauge_id: 02046000
+the catchment area is:  290.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2046000.         1.28      -0.97       3.04      -1.7        1.7 ]
+gauge_id: 12414500
+the catchment area is:  2660.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12414500.         -0.8        -0.2        -0.57        0.65       -0.65]
+gauge_id: 13161500
+the catchment area is:  990.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13161500.         -1.85       -0.62       -1.39        0.03       -0.03]
+gauge_id: 02082950
+the catchment area is:  461.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2082950.         1.25      -1.56       2.93      -2.41       2.41]
+gauge_id: 08178880
+the catchment area is:  851.56  km^2
+number of years in the record:  33
+tie in gauge: 08178880
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 08178880
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 08178880
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 08178880
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 08178880
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[8178880.         0.47      -0.73       1.29      -0.73       1.29]
+gauge_id: 06043500
+the catchment area is:  2120.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6043500.         2.44       1.73       2.56       1.05       2.1 ]
+gauge_id: 09386900
+the catchment area is:  186.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9386900.        -2.39      -2.84      -1.96      -2.73       2.73]
+gauge_id: 02069700
+the catchment area is:  228.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2069700.         0.62      -1.11       2.33      -2.19       2.19]
+gauge_id: 11482500
+the catchment area is:  724.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11482500.         -0.88       -0.6        -1.59        0.14       -0.14]
+gauge_id: 01543500
+the catchment area is:  1778.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1543500.        -0.37      -0.11       0.         0.2       -0.2 ]
+gauge_id: 06191500
+the catchment area is:  6808.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6191500.         2.53       0.31       2.16      -1.16       1.16]
+gauge_id: 03300400
+the catchment area is:  1128.54  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3300400.         1.79       1.45       0.8        1.19      -1.96]
+gauge_id: 09066200
+the catchment area is:  16.12  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9066200.         1.62      -1.51       3.21      -3.49       3.49]
+gauge_id: 05362000
+the catchment area is:  1494.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5362000.         0.        -0.99       1.87      -1.36       1.36]
+gauge_id: 01414500
+the catchment area is:  67.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1414500.         2.7        2.04       0.23       0.82      -1.76]
+gauge_id: 03357350
+the catchment area is:  26.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3357350.         1.73       1.56       1.79       1.48      -1.48]
+gauge_id: 06470800
+the catchment area is:  995.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6470800.         3.01       2.76       2.58       2.47      -2.47]
+gauge_id: 02450250
+the catchment area is:  242.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2450250.        -0.43      -0.17      -0.51      -0.31       0.31]
+gauge_id: 03504000
+the catchment area is:  134.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3504000.        -1.25       0.34      -2.47       1.76      -1.76]
+gauge_id: 14185900
+the catchment area is:  258.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14185900.         -1.05        0.         -2.64        2.5        -2.5 ]
+gauge_id: 06889500
+the catchment area is:  766.03  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6889500.        -0.14      -1.73       1.73      -2.13       2.13]
+gauge_id: 02415000
+the catchment area is:  491.75  km^2
+number of years in the record:  30
+tie in gauge: 02415000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02415000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02415000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02415000
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 02415000
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2415000.         0.        -0.16       0.16      -0.16       0.16]
+gauge_id: 05591550
+the catchment area is:  97.12  km^2
+number of years in the record:  35
+tie in gauge: 05591550
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 05591550
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 05591550
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 05591550
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 05591550
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[5591550.         0.         1.53      -1.53       1.53      -1.53]
+gauge_id: 03281100
+the catchment area is:  425.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3281100.        -1.12      -1.58      -0.64      -1.92      -1.26]
+gauge_id: 01055000
+the catchment area is:  251.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1055000.         2.93       2.61       0.68       1.33      -1.33]
+gauge_id: 02465493
+the catchment area is:  86.62  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2465493.         0.34      -0.4        0.82      -0.94       0.94]
+gauge_id: 07376000
+the catchment area is:  649.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7376000.        -0.72      -1.29       0.81      -1.55       2.46]
+gauge_id: 01031500
+the catchment area is:  766.53  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1031500.         1.87       1.36       0.14       0.91      -0.91]
+gauge_id: 09223000
+the catchment area is:  333.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9223000.        -1.48      -1.14      -1.14      -0.54       0.54]
+gauge_id: 01510000
+the catchment area is:  382.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1510000.         1.65       2.41      -1.56       2.47      -3.24]
+gauge_id: 02193340
+the catchment area is:  89.61  km^2
+number of years in the record:  29
+tie in gauge: 02193340
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02193340
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02193340
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02193340
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02193340
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[2193340.         0.49      -0.47       0.47      -0.47       0.47]
+gauge_id: 06906800
+the catchment area is:  1411.96  km^2
+number of years in the record:  28
+tie in gauge: 06906800
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 06906800
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 06906800
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 06906800
+tie score:  [11286.     0.     0.     0.     0.]
+tie in gauge: 06906800
+tie score:  [11286.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6906800.         0.41       0.59      -0.59       0.59      -0.59]
+gauge_id: 03165000
+the catchment area is:  117.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3165000.        -0.28       0.31      -1.96       0.74      -0.74]
+gauge_id: 01549500
+the catchment area is:  98.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1549500.         1.33       0.14       2.9       -0.88       0.88]
+gauge_id: 12374250
+the catchment area is:  53.3  km^2
+number of years in the record:  33
+tie in gauge: 12374250
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12374250
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12374250
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12374250
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12374250
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[12374250.          0.47        1.63       -1.56        1.63       -1.56]
+gauge_id: 10258500
+the catchment area is:  285.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10258500.         -0.97       -2.06       -0.54       -2.12        2.12]
+gauge_id: 01486000
+the catchment area is:  15.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1486000.         1.14       0.71       0.85       1.11      -1.11]
+gauge_id: 04127997
+the catchment area is:  504.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4127997.        -0.77      -3.04       0.85      -2.44       2.44]
+gauge_id: 08101000
+the catchment area is:  1184.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8101000.        -0.06       0.62      -0.37       0.68      -0.68]
+gauge_id: 01666500
+the catchment area is:  466.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1666500.         0.06      -0.51       1.05      -0.88       0.88]
+gauge_id: 09066300
+the catchment area is:  15.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9066300.         1.73      -0.94       3.47      -2.58       2.58]
+gauge_id: 04196800
+the catchment area is:  608.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4196800.         0.65       1.25      -1.56       1.9       -1.9 ]
+gauge_id: 02327100
+the catchment area is:  299.93  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2327100.        -0.37      -1.28       0.37      -1.31       1.31]
+gauge_id: 05414000
+the catchment area is:  368.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5414000.         0.09       0.77      -0.91       1.05      -1.05]
+gauge_id: 03237280
+the catchment area is:  33.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3237280.         1.16       1.28       0.2        0.91      -0.91]
+gauge_id: 02051500
+the catchment area is:  1432.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2051500.         1.14      -1.51       2.22      -2.19       2.19]
+gauge_id: 02028500
+the catchment area is:  246.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2028500.         0.23      -0.4        1.11      -0.82       0.82]
+gauge_id: 04197100
+the catchment area is:  388.9  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4197100.         1.33       1.59      -0.09       1.28      -1.28]
+gauge_id: 07346045
+the catchment area is:  963.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7346045.        -0.26      -1.22       0.54      -1.65       1.65]
+gauge_id: 08377900
+the catchment area is:  139.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8377900.        -2.58      -1.36      -2.13       0.         0.  ]
+gauge_id: 07373000
+the catchment area is:  134.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7373000.        -1.93      -2.44      -0.45      -2.33       2.33]
+gauge_id: 02363000
+the catchment area is:  1292.62  km^2
+number of years in the record:  28
+tie in gauge: 02363000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 02363000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 02363000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 02363000
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 02363000
+tie score:  [38556.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2363000.         0.        -0.67       0.67      -0.67       0.67]
+gauge_id: 13340000
+the catchment area is:  14270.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13340000.         -0.77        0.4        -1.08        0.74       -0.74]
+gauge_id: 01669000
+the catchment area is:  75.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1669000.         1.68       1.02       1.28       0.31      -0.31]
+gauge_id: 03456500
+the catchment area is:  137.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3456500.        -0.97       0.34      -1.7        1.51      -1.51]
+gauge_id: 13313000
+the catchment area is:  564.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13313000.         -0.85        0.2        -2.67        2.36       -2.36]
+gauge_id: 12411000
+the catchment area is:  866.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12411000.          0.03        0.43       -0.6         0.62       -0.62]
+gauge_id: 08165300
+the catchment area is:  439.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8165300.        -0.37      -2.78       0.23      -2.93       2.93]
+gauge_id: 01411300
+the catchment area is:  79.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1411300.         1.82      -0.34       2.1       -1.08       1.08]
+gauge_id: 06911900
+the catchment area is:  291.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6911900.         0.57      -0.94       1.73      -1.14       1.14]
+gauge_id: 03364500
+the catchment area is:  242.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3364500.         1.79       1.31       0.51       1.02      -1.96]
+gauge_id: 06889200
+the catchment area is:  406.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6889200.        -0.03      -1.76       2.13      -2.13       2.13]
+gauge_id: 13340600
+the catchment area is:  3354.61  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13340600.         -0.94        0.09       -0.88        0.8        -0.8 ]
+gauge_id: 02315500
+the catchment area is:  5915.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2315500.         0.        -0.85       0.82      -0.8        0.8 ]
+gauge_id: 03604000
+the catchment area is:  1163.35  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3604000.        -0.4       -0.37      -0.68      -0.4        0.4 ]
+gauge_id: 03473000
+the catchment area is:  784.35  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3473000.         0.82       0.23       0.97      -0.17       0.17]
+gauge_id: 12115000
+the catchment area is:  111.01  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12115000.         -0.85        1.19       -2.07        2.07       -2.07]
+gauge_id: 02027000
+the catchment area is:  241.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2027000.         0.26      -0.14       0.4       -0.4        0.4 ]
+gauge_id: 01195100
+the catchment area is:  15.96  km^2
+number of years in the record:  34
+tie in gauge: 01195100
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01195100
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01195100
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01195100
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01195100
+tie score:  [70686.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[1195100.         0.        -0.27       0.27      -0.27       0.27]
+gauge_id: 11475560
+the catchment area is:  16.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11475560.         -0.74       -0.28       -2.36        1.02       -1.02]
+gauge_id: 01350000
+the catchment area is:  614.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1350000.         3.12       2.07       0.8        0.8       -1.73]
+gauge_id: 12143600
+the catchment area is:  165.04  km^2
+number of years in the record:  32
+tie in gauge: 12143600
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 12143600
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 12143600
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 12143600
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 12143600
+tie score:  [18018.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[12143600.          0.4         1.3        -1.33        1.33       -1.33]
+gauge_id: 01543000
+the catchment area is:  704.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1543000.         0.09       0.71      -0.28       0.62      -0.62]
+gauge_id: 06803530
+the catchment area is:  309.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6803530.        -0.28      -1.02      -0.09      -1.16       1.16]
+gauge_id: 14216500
+the catchment area is:  349.92  km^2
+number of years in the record:  32
+tie in gauge: 14216500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14216500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14216500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14216500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14216500
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14216500.          0.          1.14       -1.14        1.14       -1.14]
+gauge_id: 07145700
+the catchment area is:  400.64  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7145700.         2.22       0.48       2.67      -0.28       0.28]
+gauge_id: 11523200
+the catchment area is:  385.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11523200.         -0.68        0.28       -1.82        1.65       -1.65]
+gauge_id: 03340800
+the catchment area is:  363.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3340800.         1.62       1.45       1.11       1.11      -1.11]
+gauge_id: 01491000
+the catchment area is:  291.8  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1491000.         1.68       2.07      -1.05       2.24      -2.24]
+gauge_id: 05595730
+the catchment area is:  233.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5595730.         0.2        0.2        0.2        0.37      -0.37]
+gauge_id: 06354000
+the catchment area is:  10626.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6354000.         1.33      -0.03       0.91      -0.17       0.17]
+gauge_id: 05592575
+the catchment area is:  116.33  km^2
+number of years in the record:  27
+tie in gauge: 05592575
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 05592575
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 05592575
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 05592575
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 05592575
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[5592575.         0.75       1.17      -0.21       1.17      -0.21]
+gauge_id: 04185000
+the catchment area is:  1064.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4185000.        -0.03      -0.37       0.43      -0.45       0.45]
+gauge_id: 05489000
+the catchment area is:  974.93  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5489000.        -1.02       0.6       -2.84       0.94      -0.94]
+gauge_id: 02422500
+the catchment area is:  599.95  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2422500.         1.33      -1.45       2.39      -2.41       2.41]
+gauge_id: 09430600
+the catchment area is:  190.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9430600.        -3.52      -0.62      -3.78       0.28      -0.28]
+gauge_id: 03498500
+the catchment area is:  700.35  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3498500.         0.         0.54      -2.05       1.36      -1.36]
+gauge_id: 06408700
+the catchment area is:  27.48  km^2
+number of years in the record:  34
+tie in gauge: 06408700
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 06408700
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 06408700
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 06408700
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 06408700
+tie score:  [70686.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6408700.         0.         0.67      -0.67       0.67      -0.67]
+gauge_id: 12048000
+the catchment area is:  408.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12048000.         -2.3        -0.14       -2.93        2.36       -2.36]
+gauge_id: 04024430
+the catchment area is:  1094.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4024430.         0.37      -1.36       2.02      -1.85       1.85]
+gauge_id: 01423000
+the catchment area is:  861.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1423000.         2.19       2.19      -1.39       2.04      -2.98]
+gauge_id: 01047000
+the catchment area is:  904.94  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1047000.         2.58       2.19       0.34       1.42      -1.42]
+gauge_id: 14236200
+the catchment area is:  364.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14236200.         -0.65        0.4        -1.68        1.68       -1.68]
+gauge_id: 01169000
+the catchment area is:  233.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1169000.         1.48       1.45      -1.65       2.39      -2.39]
+gauge_id: 02011460
+the catchment area is:  235.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2011460.        -0.8       -0.23      -0.2        0.48      -0.48]
+gauge_id: 03479000
+the catchment area is:  237.77  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3479000.         0.17       0.06       0.14      -0.06       0.06]
+gauge_id: 02111500
+the catchment area is:  233.35  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2111500.        -1.22      -2.33      -0.14      -1.56       0.62]
+gauge_id: 04256000
+the catchment area is:  238.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4256000.         1.68       0.62       1.36      -0.8        0.8 ]
+gauge_id: 04045500
+the catchment area is:  1967.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4045500.         1.19      -0.97       2.53      -2.61       2.61]
+gauge_id: 09430500
+the catchment area is:  4809.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9430500.        -2.78      -1.14      -2.98      -0.14       0.14]
+gauge_id: 03076600
+the catchment area is:  128.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3076600.         0.54      -0.37       2.56      -1.48       1.48]
+gauge_id: 02297310
+the catchment area is:  537.07  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2297310.        -1.28       0.31      -2.22       0.54      -0.54]
+gauge_id: 06289000
+the catchment area is:  472.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6289000.         1.99       0.85       0.94       0.2       -0.2 ]
+gauge_id: 01451800
+the catchment area is:  149.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1451800.         1.76       1.73       1.16       1.02      -1.02]
+gauge_id: 08025500
+the catchment area is:  382.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8025500.         0.01      -0.67       0.87      -0.87       2.49]
+gauge_id: 02298608
+the catchment area is:  313.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2298608.        -1.02       0.4       -2.22       0.71      -0.71]
+gauge_id: 02112120
+the catchment area is:  329.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2112120.        -0.4       -0.74      -0.37      -0.17       0.17]
+gauge_id: 14325000
+the catchment area is:  444.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14325000.         -0.85       -0.34       -1.36        0.77       -0.77]
+gauge_id: 11253310
+the catchment area is:  235.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11253310.         -0.91       -0.8        -0.82       -0.51        0.51]
+gauge_id: 08380500
+the catchment area is:  199.61  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8380500.        -2.27      -0.74      -2.53       0.2       -0.2 ]
+gauge_id: 05507600
+the catchment area is:  275.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5507600.        -0.43       0.17      -1.16       0.62      -0.62]
+gauge_id: 06291500
+the catchment area is:  220.72  km^2
+number of years in the record:  28
+tie in gauge: 06291500
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 06291500
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 06291500
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 06291500
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 06291500
+tie score:  [38556.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6291500.         0.         0.16      -0.16       0.16      -0.16]
+gauge_id: 11162500
+the catchment area is:  119.2  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11162500.         -0.43       -0.17       -0.31        0.          0.  ]
+gauge_id: 03021350
+the catchment area is:  249.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3021350.        -1.59       0.85      -3.55       3.07      -3.07]
+gauge_id: 04040500
+the catchment area is:  421.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4040500.        -1.39      -2.67       0.71      -2.87       2.87]
+gauge_id: 14305500
+the catchment area is:  526.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14305500.         -1.31        0.43       -3.15        3.32       -3.32]
+gauge_id: 03281500
+the catchment area is:  1836.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3281500.         0.23      -0.14       0.91      -0.71      -0.2 ]
+gauge_id: 03140000
+the catchment area is:  71.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3140000.         0.2       -0.23      -0.37      -0.26       0.26]
+gauge_id: 12383500
+the catchment area is:  17.7  km^2
+number of years in the record:  29
+tie in gauge: 12383500
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12383500
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12383500
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12383500
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 12383500
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[12383500.          0.          0.36       -0.36        0.36       -0.36]
+gauge_id: 02051000
+the catchment area is:  145.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2051000.         1.32       0.         2.12      -0.5        2.31]
+gauge_id: 10258000
+the catchment area is:  75.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10258000.         -0.27       -0.3         0.89       -0.18        1.78]
+gauge_id: 08196000
+the catchment area is:  344.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8196000.        -0.88      -1.36      -0.54      -1.28       1.28]
+gauge_id: 06468250
+the catchment area is:  3247.76  km^2
+number of years in the record:  30
+tie in gauge: 06468250
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06468250
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06468250
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06468250
+tie score:  [47850.     0.     0.     0.     0.]
+tie in gauge: 06468250
+tie score:  [47850.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6468250.         0.         2.02      -2.02       2.02      -2.02]
+gauge_id: 02074500
+the catchment area is:  288.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2074500.        -0.23      -1.33       0.71      -1.36       1.36]
+gauge_id: 10336660
+the catchment area is:  32.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10336660.         -1.02       -0.85        0.65       -0.17        0.17]
+gauge_id: 09034900
+the catchment area is:  21.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9034900.         1.33      -0.34       2.27      -2.36       2.36]
+gauge_id: 11480390
+the catchment area is:  243.15  km^2
+number of years in the record:  35
+tie in gauge: 11480390
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 11480390
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 11480390
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 11480390
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 11480390
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[11480390.          0.68       -0.03        0.03       -0.06        0.06]
+gauge_id: 14306500
+the catchment area is:  860.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14306500.         -1.59       -0.43       -2.98        1.85       -1.85]
+gauge_id: 14182500
+the catchment area is:  292.89  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14182500.          0.11        0.48       -1.25        1.16       -1.16]
+gauge_id: 03159540
+the catchment area is:  400.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3159540.         1.51       0.62       1.93      -0.28       0.28]
+gauge_id: 06280300
+the catchment area is:  793.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6280300.         2.22      -0.09       1.96      -1.19       1.19]
+gauge_id: 01518862
+the catchment area is:  234.49  km^2
+number of years in the record:  32
+tie in gauge: 01518862
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 01518862
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 01518862
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 01518862
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 01518862
+tie score:  [18018.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[1518862.         0.4        0.94      -0.94       0.94      -0.94]
+gauge_id: 04027000
+the catchment area is:  1547.15  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4027000.        -0.4       -1.48       1.31      -1.7        1.7 ]
+gauge_id: 01639500
+the catchment area is:  267.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1639500.         1.99       0.97       2.84       0.28      -0.28]
+gauge_id: 10348850
+the catchment area is:  22.37  km^2
+number of years in the record:  28
+tie in gauge: 10348850
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 10348850
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 10348850
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 10348850
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 10348850
+tie score:  [38556.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10348850.          0.          0.47       -0.47        0.47       -0.47]
+gauge_id: 02216180
+the catchment area is:  128.08  km^2
+number of years in the record:  32
+tie in gauge: 02216180
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02216180
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02216180
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02216180
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02216180
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2216180.         0.        -1.65       1.65      -1.65       1.65]
+gauge_id: 06339500
+the catchment area is:  3161.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6339500.        -0.06       0.26       0.         0.43      -0.43]
+gauge_id: 01516500
+the catchment area is:  31.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1516500.         1.53       0.77       2.47      -0.2        0.2 ]
+gauge_id: 08271000
+the catchment area is:  46.39  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8271000.        -1.76      -2.53       0.37      -1.7        1.7 ]
+gauge_id: 02464360
+the catchment area is:  148.99  km^2
+number of years in the record:  29
+tie in gauge: 02464360
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02464360
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02464360
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02464360
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 02464360
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2464360.         0.        -0.13       0.13      -0.13       0.13]
+gauge_id: 11237500
+the catchment area is:  65.21  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11237500.         -0.09       -0.26        0.09        0.45       -0.45]
+gauge_id: 02324400
+the catchment area is:  210.24  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2324400.        -1.68      -1.82      -0.82      -1.28       1.28]
+gauge_id: 05584500
+the catchment area is:  1711.89  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5584500.        -0.54       0.17      -1.39       0.51      -0.51]
+gauge_id: 06918460
+the catchment area is:  650.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6918460.         1.25      -0.57       3.15      -1.79       1.79]
+gauge_id: 09513780
+the catchment area is:  190.97  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9513780.        -3.1       -1.16      -3.44      -0.6        0.6 ]
+gauge_id: 01485500
+the catchment area is:  112.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1485500.         0.65       0.31       0.2        0.8       -0.8 ]
+gauge_id: 08195000
+the catchment area is:  1009.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8195000.        -0.68      -1.96       0.45      -2.3        2.3 ]
+gauge_id: 01557500
+the catchment area is:  117.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1557500.         1.14      -0.28       2.13      -0.8        0.8 ]
+gauge_id: 12145500
+the catchment area is:  83.89  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12145500.         -1.11        1.51       -3.44        3.07       -3.07]
+gauge_id: 11481200
+the catchment area is:  106.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11481200.         -0.57       -0.68       -0.28       -0.68        0.68]
+gauge_id: 05056000
+the catchment area is:  5648.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5056000.         2.47       2.87       2.1        2.33      -2.33]
+gauge_id: 02013000
+the catchment area is:  436.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2013000.        -0.48      -0.91       0.4       -0.74       0.74]
+gauge_id: 09505200
+the catchment area is:  287.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9505200.         0.81       1.86       0.64       2.23       1.72]
+gauge_id: 08070200
+the catchment area is:  1005.97  km^2
+number of years in the record:  31
+tie in gauge: 08070200
+tie score:  [53010.     0.     0.     0.     0.]
+tie in gauge: 08070200
+tie score:  [53010.     0.     0.     0.     0.]
+tie in gauge: 08070200
+tie score:  [53010.     0.     0.     0.     0.]
+tie in gauge: 08070200
+tie score:  [53010.     0.     0.     0.     0.]
+tie in gauge: 08070200
+tie score:  [53010.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[8070200.         0.        -1.46       1.46      -1.46       1.46]
+gauge_id: 05412500
+the catchment area is:  4026.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5412500.         0.65       0.43       0.45       0.37      -0.37]
+gauge_id: 14222500
+the catchment area is:  329.05  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14222500.         -1.65        0.48       -1.85        1.82       -1.82]
+gauge_id: 06477500
+the catchment area is:  1533.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6477500.         1.51       0.85       1.25       0.97      -0.97]
+gauge_id: 05592050
+the catchment area is:  260.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5592050.         1.19      -0.09       2.73      -0.68       0.68]
+gauge_id: 02016000
+the catchment area is:  1194.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2016000.         0.28      -0.23       1.22      -0.2        0.2 ]
+gauge_id: 02081500
+the catchment area is:  432.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2081500.         0.14      -1.56       2.39      -2.05       2.05]
+gauge_id: 04224775
+the catchment area is:  232.59  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4224775.         1.65       1.45       0.85       1.14      -1.14]
+gauge_id: 02481000
+the catchment area is:  250.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2481000.        -0.99      -1.45       1.36      -1.39       1.39]
+gauge_id: 02395120
+the catchment area is:  85.27  km^2
+number of years in the record:  35
+tie in gauge: 02395120
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02395120
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02395120
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02395120
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 02395120
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2395120.         0.        -0.31       0.31      -0.31       0.31]
+gauge_id: 02472000
+the catchment area is:  1927.67  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2472000.         0.43      -1.59       2.07      -1.96       1.96]
+gauge_id: 01542810
+the catchment area is:  13.58  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1542810.         0.        -0.17       0.11      -0.09       0.09]
+gauge_id: 01552500
+the catchment area is:  62.06  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1552500.         2.19       0.28       5.03      -2.3        2.3 ]
+gauge_id: 01073000
+the catchment area is:  32.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1073000.         1.68       0.94       0.37       0.85      -0.85]
+gauge_id: 08190000
+the catchment area is:  1923.12  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8190000.        -0.54      -1.14      -0.23      -0.88       0.88]
+gauge_id: 06452000
+the catchment area is:  25817.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6452000.         0.11       0.97       0.         1.51      -1.51]
+gauge_id: 02056900
+the catchment area is:  299.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2056900.         0.31      -0.2        0.57      -0.28       0.28]
+gauge_id: 02053800
+the catchment area is:  288.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2053800.         0.2       -0.28       0.97      -0.6        0.6 ]
+gauge_id: 01638480
+the catchment area is:  233.83  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1638480.         2.1        0.54       2.02      -0.09       0.09]
+gauge_id: 08150800
+the catchment area is:  562.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8150800.        -0.48       0.48      -0.68       0.71      -0.71]
+gauge_id: 07014500
+the catchment area is:  3851.18  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7014500.         0.51      -0.99       1.82      -1.14       1.14]
+gauge_id: 08029500
+the catchment area is:  384.21  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8029500.        -0.91      -1.02      -0.6       -0.85       0.85]
+gauge_id: 01539000
+the catchment area is:  705.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1539000.         1.45       0.82       1.9        0.11      -0.11]
+gauge_id: 07083000
+the catchment area is:  66.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7083000.         1.14      -1.02       2.61      -2.07       2.07]
+gauge_id: 04127918
+the catchment area is:  602.47  km^2
+number of years in the record:  31
+Mann-Kendall Statistic
+[4127918.        -0.17      -2.18       1.84      -2.72       2.72]
+gauge_id: 06632400
+the catchment area is:  165.15  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6632400.         2.58      -0.51       3.35      -2.33       2.33]
+gauge_id: 03050000
+the catchment area is:  489.49  km^2
+number of years in the record:  27
+tie in gauge: 03050000
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03050000
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03050000
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03050000
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 03050000
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[3050000.         0.36      -0.48       0.52      -0.48       0.48]
+gauge_id: 01596500
+the catchment area is:  127.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1596500.         0.82      -0.06       1.16      -0.62       0.62]
+gauge_id: 09497800
+the catchment area is:  751.77  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9497800.        -3.65      -3.37      -3.42      -2.66       1.18]
+gauge_id: 01669520
+the catchment area is:  277.68  km^2
+number of years in the record:  34
+tie in gauge: 01669520
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01669520
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01669520
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01669520
+tie score:  [70686.     0.     0.     0.     0.]
+tie in gauge: 01669520
+tie score:  [70686.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[1669520.         0.         0.93      -0.93       0.93      -0.93]
+gauge_id: 12025700
+the catchment area is:  105.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12025700.         -1.25        0.97       -3.18        3.35       -3.35]
+gauge_id: 12041200
+the catchment area is:  662.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12041200.         -2.76       -0.26       -4.26        3.86       -3.86]
+gauge_id: 11473900
+the catchment area is:  1930.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11473900.         -0.82       -0.37       -1.99        1.22       -1.22]
+gauge_id: 07362100
+the catchment area is:  996.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7362100.        -0.51      -2.3        1.79      -2.39       2.39]
+gauge_id: 12056500
+the catchment area is:  147.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12056500.         -1.7         0.28       -3.21        3.24       -3.24]
+gauge_id: 03455500
+the catchment area is:  71.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3455500.        -1.93      -0.11      -3.15       2.39      -2.39]
+gauge_id: 09484600
+the catchment area is:  1240.13  km^2
+number of years in the record:  26
+tie in gauge: 09484600
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 09484600
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 09484600
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 09484600
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 09484600
+tie score:  [30550.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[9484600.        0.       -0.2       0.2      -0.2       0.2]
+gauge_id: 11532500
+the catchment area is:  1590.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11532500.         -0.4        -0.26       -1.16        0.65       -0.65]
+gauge_id: 09065500
+the catchment area is:  37.81  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9065500.         2.07      -0.88       3.38      -3.52       3.52]
+gauge_id: 06921200
+the catchment area is:  328.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6921200.         1.76      -0.43       2.98      -1.19       1.19]
+gauge_id: 10023000
+the catchment area is:  147.45  km^2
+number of years in the record:  29
+tie in gauge: 10023000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10023000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10023000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10023000
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10023000
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10023000.          0.          0.51       -0.51        0.51       -0.51]
+gauge_id: 06784000
+the catchment area is:  6386.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6784000.         1.11      -0.23       1.16      -1.48       1.48]
+gauge_id: 02479155
+the catchment area is:  138.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2479155.        -1.31      -1.31       0.68      -1.36       1.36]
+gauge_id: 01121000
+the catchment area is:  94.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1121000.        -0.61      -0.21      -0.7        0.18      -1.89]
+gauge_id: 05444000
+the catchment area is:  377.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5444000.         0.6        0.51      -0.09       0.09      -0.09]
+gauge_id: 03574500
+the catchment area is:  859.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3574500.        -1.19      -0.62      -1.96       0.06      -0.06]
+gauge_id: 02143040
+the catchment area is:  68.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2143040.        -0.6       -1.51       2.02      -1.73       1.73]
+gauge_id: 14309500
+the catchment area is:  226.31  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14309500.         -0.71       -0.51       -0.26       -0.26        0.26]
+gauge_id: 03070500
+the catchment area is:  518.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3070500.        -0.26      -0.03      -0.26       0.         0.  ]
+gauge_id: 02118500
+the catchment area is:  400.53  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2118500.        -0.48      -0.85       1.14      -1.33       1.33]
+gauge_id: 08014500
+the catchment area is:  1325.02  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8014500.        -0.43      -2.33       2.02      -3.01       3.01]
+gauge_id: 10329500
+the catchment area is:  513.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10329500.         -1.05       -1.28       -0.74       -0.88        0.88]
+gauge_id: 06352000
+the catchment area is:  1443.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6352000.         1.33       0.03       1.11      -0.2        0.2 ]
+gauge_id: 08070000
+the catchment area is:  844.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8070000.        -1.05      -1.7       -0.68      -1.51       1.51]
+gauge_id: 02479560
+the catchment area is:  1455.83  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2479560.        -0.65      -1.22       1.42      -1.53       1.53]
+gauge_id: 04115265
+the catchment area is:  96.12  km^2
+number of years in the record:  28
+tie in gauge: 04115265
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 04115265
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 04115265
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 04115265
+tie score:  [38556.     0.     0.     0.     0.]
+tie in gauge: 04115265
+tie score:  [38556.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[4115265.       0.       0.       0.       0.       0.]
+gauge_id: 01434025
+the catchment area is:  9.9  km^2
+number of years in the record:  32
+tie in gauge: 01434025
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 01434025
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 01434025
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 01434025
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 01434025
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[1434025.         0.         1.31      -1.31       1.31      -1.31]
+gauge_id: 06876700
+the catchment area is:  1054.05  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6876700.         0.71      -0.94       1.19      -1.36       1.36]
+gauge_id: 02212600
+the catchment area is:  189.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2212600.         0.06      -0.82       1.05      -1.25       1.25]
+gauge_id: 07067000
+the catchment area is:  4315.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7067000.         1.05      -0.71       2.44      -2.36       2.36]
+gauge_id: 11478500
+the catchment area is:  574.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11478500.         -0.54       -0.43       -0.26       -0.2         0.2 ]
+gauge_id: 01545600
+the catchment area is:  123.62  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1545600.         0.74       0.6        0.57       0.6       -0.6 ]
+gauge_id: 06892000
+the catchment area is:  1091.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6892000.        -0.37      -0.97       1.02      -1.05       1.05]
+gauge_id: 04074950
+the catchment area is:  1216.29  km^2
+number of years in the record:  35
+tie in gauge: 04074950
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 04074950
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 04074950
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 04074950
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 04074950
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[4074950.        0.       -1.9       1.9      -1.9       1.9]
+gauge_id: 04057510
+the catchment area is:  491.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4057510.         1.53      -2.3        3.15      -4.         4.  ]
+gauge_id: 03368000
+the catchment area is:  32.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3368000.         2.1        0.74       2.05       0.03      -0.03]
+gauge_id: 14154500
+the catchment area is:  549.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14154500.         -0.88       -0.23       -1.53        0.91       -0.91]
+gauge_id: 10249300
+the catchment area is:  609.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10249300.         -2.78       -1.08       -2.87        0.26       -0.26]
+gauge_id: 06440200
+the catchment area is:  654.7  km^2
+number of years in the record:  27
+tie in gauge: 06440200
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 06440200
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 06440200
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 06440200
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 06440200
+tie score:  [34398.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6440200.         0.         0.21      -0.21       0.21      -0.21]
+gauge_id: 09484000
+the catchment area is:  98.65  km^2
+number of years in the record:  32
+tie in gauge: 09484000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 09484000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 09484000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 09484000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 09484000
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[9484000.         0.         0.81      -0.81       0.81      -0.81]
+gauge_id: 01181000
+the catchment area is:  245.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1181000.         1.56       1.42      -0.17       1.19      -1.19]
+gauge_id: 04213075
+the catchment area is:  11.94  km^2
+number of years in the record:  29
+tie in gauge: 04213075
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 04213075
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 04213075
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 04213075
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 04213075
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[4213075.         0.         1.59      -1.59       1.59      -1.59]
+gauge_id: 08103900
+the catchment area is:  86.26  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8103900.         0.28      -0.37       0.03      -0.43       0.43]
+gauge_id: 08202700
+the catchment area is:  430.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8202700.        -0.91      -0.91      -0.91      -1.05       1.05]
+gauge_id: 12178100
+the catchment area is:  72.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12178100.         -1.96        0.11       -1.85        1.65       -1.65]
+gauge_id: 07362587
+the catchment area is:  70.92  km^2
+number of years in the record:  26
+tie in gauge: 07362587
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07362587
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07362587
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07362587
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07362587
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[7362587.         0.64      -0.07       0.95      -0.07       0.95]
+gauge_id: 02198100
+the catchment area is:  79.75  km^2
+number of years in the record:  29
+tie in gauge: 02198100
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02198100
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02198100
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02198100
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 02198100
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[2198100.         0.49      -0.96       1.97      -0.96       1.97]
+gauge_id: 12025000
+the catchment area is:  410.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12025000.          0.7         2.49       -2.29        4.5        -2.85]
+gauge_id: 03010655
+the catchment area is:  255.12  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3010655.         1.39       0.06       2.02      -0.8        0.8 ]
+gauge_id: 10336740
+the catchment area is:  7.94  km^2
+number of years in the record:  29
+tie in gauge: 10336740
+tie score:  [13300.     0.     0.     0.     0.]
+tie in gauge: 10336740
+tie score:  [13300.     0.     0.     0.     0.]
+tie in gauge: 10336740
+tie score:  [13300.     0.     0.     0.     0.]
+tie in gauge: 10336740
+tie score:  [13300.     0.     0.     0.     0.]
+tie in gauge: 10336740
+tie score:  [13300.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10336740.          0.26        0.09        0.88        0.09        0.88]
+gauge_id: 11381500
+the catchment area is:  341.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11381500.         -0.68       -0.54       -1.14        0.74       -0.74]
+gauge_id: 02381600
+the catchment area is:  10.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2381600.        -0.82      -1.93       1.7       -1.82       1.82]
+gauge_id: 10263500
+the catchment area is:  310.25  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10263500.         -1.08       -0.57       -1.16       -0.82        0.82]
+gauge_id: 13310700
+the catchment area is:  854.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13310700.          2.17        2.77        0.5         3.76        0.58]
+gauge_id: 08190500
+the catchment area is:  1800.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8190500.         0.31      -1.39       0.23      -1.65       1.65]
+gauge_id: 08171300
+the catchment area is:  1073.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8171300.        -0.4       -0.14       0.03      -0.48       0.48]
+gauge_id: 13011900
+the catchment area is:  848.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13011900.          1.62        0.11        1.65       -1.28        1.28]
+gauge_id: 03026500
+the catchment area is:  20.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3026500.        -0.45      -0.37       0.43      -0.37       0.37]
+gauge_id: 12092000
+the catchment area is:  241.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12092000.         -1.96        1.73       -3.72        3.72       -3.72]
+gauge_id: 02472500
+the catchment area is:  789.45  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2472500.         0.        -1.68       2.02      -2.22       2.22]
+gauge_id: 10166430
+the catchment area is:  2534.49  km^2
+number of years in the record:  29
+tie in gauge: 10166430
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10166430
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10166430
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10166430
+tie score:  [43036.     0.     0.     0.     0.]
+tie in gauge: 10166430
+tie score:  [43036.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10166430.          0.          0.13       -0.13        0.13       -0.13]
+gauge_id: 01552000
+the catchment area is:  1129.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1552000.         2.33       0.71       3.58      -0.94       0.94]
+gauge_id: 07208500
+the catchment area is:  159.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7208500.        -1.87      -1.73      -1.22      -1.11       1.11]
+gauge_id: 06360500
+the catchment area is:  12601.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6360500.         0.94       0.51       0.74       0.65      -0.65]
+gauge_id: 07375000
+the catchment area is:  253.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7375000.        -1.14      -0.91      -0.26      -0.91       0.91]
+gauge_id: 01658500
+the catchment area is:  23.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1658500.         1.11       0.43       1.68      -0.09       0.09]
+gauge_id: 14187000
+the catchment area is:  137.76  km^2
+number of years in the record:  27
+tie in gauge: 14187000
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 14187000
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 14187000
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 14187000
+tie score:  [34398.     0.     0.     0.     0.]
+tie in gauge: 14187000
+tie score:  [34398.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14187000.          0.          0.67       -0.67        0.67       -0.67]
+gauge_id: 06919500
+the catchment area is:  1069.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6919500.         1.05      -0.23       3.01      -1.22       1.22]
+gauge_id: 12020000
+the catchment area is:  296.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12020000.         -0.94        0.57       -2.98        3.04       -3.04]
+gauge_id: 09378630
+the catchment area is:  11.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9378630.        -2.3       -2.5       -1.05      -2.41       2.41]
+gauge_id: 08269000
+the catchment area is:  163.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8269000.        -1.16      -2.3        0.2       -1.87       1.87]
+gauge_id: 06339100
+the catchment area is:  529.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6339100.         0.2        0.4        0.17       0.28      -0.28]
+gauge_id: 14166500
+the catchment area is:  238.14  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14166500.         -2.02       -0.06       -2.61        1.11       -1.11]
+gauge_id: 02231342
+the catchment area is:  193.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2231342.        -0.45       0.23      -0.6        0.4       -0.4 ]
+gauge_id: 02430615
+the catchment area is:  32.52  km^2
+number of years in the record:  32
+Mann-Kendall Statistic
+[2430615.        -0.29      -1.01       0.32      -1.17       1.17]
+gauge_id: 07359610
+the catchment area is:  342.43  km^2
+number of years in the record:  27
+tie in gauge: 07359610
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07359610
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07359610
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07359610
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07359610
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[7359610.         0.75      -0.75       0.75      -0.75       0.75]
+gauge_id: 03049800
+the catchment area is:  16.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3049800.         0.14       0.85      -1.22       1.25      -1.25]
+gauge_id: 06468170
+the catchment area is:  2833.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6468170.         1.93       1.85       1.48       1.59      -1.59]
+gauge_id: 04015330
+the catchment area is:  225.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4015330.         0.03      -0.37       1.16      -0.48       0.48]
+gauge_id: 07151500
+the catchment area is:  2111.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7151500.         1.82       0.17       2.27      -0.28       0.28]
+gauge_id: 03450000
+the catchment area is:  14.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3450000.         2.76       1.96       2.13       1.62       2.19]
+gauge_id: 02125000
+the catchment area is:  145.07  km^2
+number of years in the record:  31
+Mann-Kendall Statistic
+[2125000.        -0.85      -1.5        1.16      -1.19       1.19]
+gauge_id: 12073500
+the catchment area is:  15.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12073500.         -1.25        0.         -1.39        1.59       -1.59]
+gauge_id: 09081600
+the catchment area is:  436.88  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9081600.        -1.73      -0.88      -0.14      -0.45       0.45]
+gauge_id: 03291780
+the catchment area is:  71.52  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3291780.         2.13       0.48       3.52      -0.43       0.43]
+gauge_id: 03182500
+the catchment area is:  1364.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3182500.        -1.42      -0.68      -1.05       0.37      -0.37]
+gauge_id: 06885500
+the catchment area is:  1075.14  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6885500.         0.03      -0.74       1.08      -1.11       1.11]
+gauge_id: 01632900
+the catchment area is:  249.2  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1632900.         0.37      -0.77       1.48      -1.59       0.65]
+gauge_id: 02077200
+the catchment area is:  126.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2077200.        -0.11      -1.05       0.57      -1.22       1.22]
+gauge_id: 01139000
+the catchment area is:  259.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1139000.         2.1        1.31       1.42       0.43      -0.43]
+gauge_id: 11180960
+the catchment area is:  17.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11180960.         -0.82       -0.37       -0.71        0.03       -0.03]
+gauge_id: 06803510
+the catchment area is:  118.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6803510.        -0.31      -1.76       0.11      -1.9        1.9 ]
+gauge_id: 11176400
+the catchment area is:  336.78  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11176400.         -0.28       -0.54        0.11       -0.65        0.65]
+gauge_id: 06404000
+the catchment area is:  151.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6404000.         0.65       0.51       0.71       0.54      -0.54]
+gauge_id: 14303200
+the catchment area is:  8.07  km^2
+number of years in the record:  32
+tie in gauge: 14303200
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14303200
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14303200
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14303200
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 14303200
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14303200.          0.          2.08       -2.08        2.08       -2.08]
+gauge_id: 11180500
+the catchment area is:  27.03  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11180500.         -0.85       -0.14       -1.16        0.26       -0.26]
+gauge_id: 11264500
+the catchment area is:  472.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11264500.         -0.03       -0.2         0.14       -0.14        0.14]
+gauge_id: 07295000
+the catchment area is:  466.88  km^2
+number of years in the record:  35
+tie in gauge: 07295000
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07295000
+tie score:  [210. 210.   0.   0.   0.]
+tie in gauge: 07295000
+tie score:  [210. 210. 210.   0.   0.]
+tie in gauge: 07295000
+tie score:  [210. 210. 210. 210.   0.]
+tie in gauge: 07295000
+tie score:  [210. 210. 210. 210. 210.]
+Mann-Kendall Statistic
+[7295000.        -2.5       -3.07      -1.54      -3.16      -0.94]
+gauge_id: 07068000
+the catchment area is:  5312.93  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7068000.         0.82      -0.37       2.02      -2.19       2.19]
+gauge_id: 02102908
+the catchment area is:  20.06  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2102908.         0.03      -2.5        1.96      -2.81       2.81]
+gauge_id: 12377150
+the catchment area is:  32.39  km^2
+number of years in the record:  33
+tie in gauge: 12377150
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 12377150
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 12377150
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 12377150
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 12377150
+tie score:  [64416.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[12377150.          0.          0.91       -0.91        0.91       -0.91]
+gauge_id: 03187500
+the catchment area is:  207.99  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3187500.         0.24       0.5        0.47       1.29       0.21]
+gauge_id: 02065500
+the catchment area is:  252.75  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2065500.         0.26      -1.99       1.7       -2.67       2.67]
+gauge_id: 05501000
+the catchment area is:  929.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5501000.         0.        -0.43       0.94      -0.43       0.43]
+gauge_id: 10336645
+the catchment area is:  20.09  km^2
+number of years in the record:  35
+tie in gauge: 10336645
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 10336645
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 10336645
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 10336645
+tie score:  [77350.     0.     0.     0.     0.]
+tie in gauge: 10336645
+tie score:  [77350.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10336645.          0.          0.03       -0.03        0.03       -0.03]
+gauge_id: 07149000
+the catchment area is:  2263.93  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7149000.         1.36      -1.48       1.85      -2.13       2.13]
+gauge_id: 04063700
+the catchment area is:  371.32  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4063700.        -0.2       -3.12       2.16      -3.81       3.81]
+gauge_id: 03500240
+the catchment area is:  148.94  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3500240.        -1.31      -0.2       -0.82       0.28      -0.28]
+gauge_id: 06278300
+the catchment area is:  59.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6278300.         1.59      -0.77       1.62      -1.28       1.28]
+gauge_id: 13331500
+the catchment area is:  619.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13331500.         -3.01        0.14       -3.95        2.98       -2.98]
+gauge_id: 04197170
+the catchment area is:  95.97  km^2
+number of years in the record:  32
+tie in gauge: 04197170
+tie score:  [15540.     0.     0.     0.     0.]
+tie in gauge: 04197170
+tie score:  [15540.     0.     0.     0.     0.]
+tie in gauge: 04197170
+tie score:  [15540.     0.     0.     0.     0.]
+tie in gauge: 04197170
+tie score:  [15540.     0.     0.     0.     0.]
+tie in gauge: 04197170
+tie score:  [15540.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[4197170.        -0.89       0.66      -1.61       0.66      -1.57]
+gauge_id: 06917000
+the catchment area is:  767.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6917000.         0.8        0.17       1.53      -0.31       0.31]
+gauge_id: 07315200
+the catchment area is:  502.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7315200.        -1.79      -2.53      -1.22      -2.3        2.3 ]
+gauge_id: 05120500
+the catchment area is:  1509.83  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5120500.         1.59       1.19       1.33       1.14      -1.14]
+gauge_id: 01440400
+the catchment area is:  178.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1440400.         1.62       1.82      -0.91       1.87      -1.87]
+gauge_id: 08158810
+the catchment area is:  33.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8158810.        -0.48       0.17      -1.22       0.74      -0.74]
+gauge_id: 09352900
+the catchment area is:  187.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9352900.        -2.39      -1.9       -0.14      -0.4        0.4 ]
+gauge_id: 02053200
+the catchment area is:  581.6  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2053200.         1.48      -0.31       2.05      -0.99       0.99]
+gauge_id: 08267500
+the catchment area is:  96.83  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8267500.        -1.76      -1.93      -0.26      -0.82       0.82]
+gauge_id: 03346000
+the catchment area is:  828.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3346000.         1.59       0.88       2.05       0.68      -0.68]
+gauge_id: 06344600
+the catchment area is:  408.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6344600.        -0.09       0.        -0.4       -0.14       0.14]
+gauge_id: 07290650
+the catchment area is:  1694.61  km^2
+number of years in the record:  35
+tie in gauge: 07290650
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 07290650
+tie score:  [210. 210.   0.   0.   0.]
+tie in gauge: 07290650
+tie score:  [210. 210. 210.   0.   0.]
+tie in gauge: 07290650
+tie score:  [210. 210. 210. 210.   0.]
+tie in gauge: 07290650
+tie score:  [210. 210. 210. 210. 210.]
+Mann-Kendall Statistic
+[7290650.        -2.13      -3.01      -0.23      -3.21      -0.88]
+gauge_id: 05593900
+the catchment area is:  145.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5593900.         1.31       1.48       0.43       1.51      -1.51]
+gauge_id: 03028000
+the catchment area is:  166.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3028000.        -0.31       0.03      -0.82       0.62      -0.62]
+gauge_id: 08194200
+the catchment area is:  1233.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8194200.        -0.88      -0.65      -0.77      -0.65       0.65]
+gauge_id: 02372250
+the catchment area is:  1145.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2372250.         0.34      -0.48       0.28      -0.51       0.51]
+gauge_id: 09505800
+the catchment area is:  624.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9505800.        -3.15      -1.59      -3.32      -0.88       0.88]
+gauge_id: 02112360
+the catchment area is:  206.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2112360.        -0.26      -1.11       0.09      -0.65       0.65]
+gauge_id: 07148400
+the catchment area is:  2560.49  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7148400.         0.91      -1.82       1.68      -2.44       2.44]
+gauge_id: 10234500
+the catchment area is:  238.37  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10234500.         -2.95       -1.87       -3.04       -0.14        0.14]
+gauge_id: 01350140
+the catchment area is:  47.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1350140.         2.64       1.65       1.42       0.91      -1.85]
+gauge_id: 06441500
+the catchment area is:  8143.02  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6441500.         0.7        1.29       0.5        1.58       0.01]
+gauge_id: 05057200
+the catchment area is:  1900.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5057200.         0.57       2.53       0.17       2.84      -2.84]
+gauge_id: 06746095
+the catchment area is:  9.26  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6746095.         1.28       1.82      -0.94       0.88      -0.88]
+gauge_id: 02018000
+the catchment area is:  852.53  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2018000.         0.        -0.34       1.19      -0.77       0.77]
+gauge_id: 03170000
+the catchment area is:  800.06  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3170000.         0.71      -0.06       1.36      -0.37       0.37]
+gauge_id: 13235000
+the catchment area is:  1158.47  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13235000.         -1.08       -0.54       -2.19        1.42       -1.42]
+gauge_id: 12117000
+the catchment area is:  45.22  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12117000.         -1.22        1.02       -3.29        3.24       -3.24]
+gauge_id: 06353000
+the catchment area is:  4605.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6353000.         1.85       0.17       1.56      -0.14       0.14]
+gauge_id: 07226500
+the catchment area is:  5245.84  km^2
+number of years in the record:  34
+Mann-Kendall Statistic
+[7226500.        -1.17      -0.16      -1.17      -0.01       0.01]
+gauge_id: 01439500
+the catchment area is:  306.09  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1439500.         1.7        1.96      -0.51       1.82      -1.82]
+gauge_id: 09505350
+the catchment area is:  369.89  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9505350.        -2.61      -1.22      -2.36      -0.65       0.65]
+gauge_id: 02064000
+the catchment area is:  427.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2064000.        -0.2       -1.16       0.91      -1.87       1.87]
+gauge_id: 03366500
+the catchment area is:  762.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3366500.         2.58       0.94       3.72      -0.43       0.43]
+gauge_id: 03011800
+the catchment area is:  101.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3011800.        -0.88      -0.2       -2.05       1.25      -1.25]
+gauge_id: 11098000
+the catchment area is:  46.67  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11098000.         -1.65       -0.45       -2.27        0.51       -0.51]
+gauge_id: 10310500
+the catchment area is:  47.65  km^2
+number of years in the record:  26
+tie in gauge: 10310500
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 10310500
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 10310500
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 10310500
+tie score:  [30550.     0.     0.     0.     0.]
+tie in gauge: 10310500
+tie score:  [30550.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[10310500.          0.         -0.37        0.37       -0.37        0.37]
+gauge_id: 01078000
+the catchment area is:  221.86  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1078000.         1.33       0.94       1.08       0.23      -0.23]
+gauge_id: 12013500
+the catchment area is:  340.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12013500.         -1.11        0.91       -4.18        4.09       -4.09]
+gauge_id: 05399500
+the catchment area is:  578.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5399500.        -1.39      -1.19      -0.28      -1.05       1.05]
+gauge_id: 07335700
+the catchment area is:  104.13  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7335700.         0.37      -0.74       2.13      -1.02       1.02]
+gauge_id: 05057000
+the catchment area is:  8136.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5057000.         2.1        3.01       1.62       2.93      -2.93]
+gauge_id: 04122500
+the catchment area is:  1800.63  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4122500.        -0.06      -0.74       0.71      -1.28       1.28]
+gauge_id: 02297155
+the catchment area is:  97.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2297155.        -0.62       0.94      -2.13       1.11      -1.11]
+gauge_id: 07195800
+the catchment area is:  38.58  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7195800.         0.03      -0.11       0.28       0.26      -0.26]
+gauge_id: 02479300
+the catchment area is:  1153.42  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2479300.        -0.85      -0.85       0.45      -0.8        0.8 ]
+gauge_id: 01532000
+the catchment area is:  556.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1532000.         2.19       1.08       3.12      -0.06       0.06]
+gauge_id: 01013500
+the catchment area is:  2303.95  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1013500.         1.85       1.16       0.54       0.48      -0.48]
+gauge_id: 01664000
+the catchment area is:  1604.64  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1664000.         1.11      -0.09       2.16      -0.65       0.65]
+gauge_id: 08189500
+the catchment area is:  1816.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8189500.        -0.06      -0.74      -0.11      -0.94       0.94]
+gauge_id: 08109700
+the catchment area is:  621.67  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8109700.        -0.91      -0.11      -0.71       0.         0.  ]
+gauge_id: 02299950
+the catchment area is:  176.8  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2299950.        -0.82       1.08      -2.87       1.76      -1.76]
+gauge_id: 09497980
+the catchment area is:  516.82  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9497980.        -2.73      -2.1       -2.64      -1.62       1.62]
+gauge_id: 13083000
+the catchment area is:  181.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13083000.         -0.09       -1.59        0.48       -1.65        1.65]
+gauge_id: 01118300
+the catchment area is:  13.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1118300.        -0.44       0.67      -2.57       1.49      -3.2 ]
+gauge_id: 11141280
+the catchment area is:  56.05  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11141280.         -0.97       -1.25       -0.77       -0.57        0.57]
+gauge_id: 01580000
+the catchment area is:  246.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1580000.         1.82       1.22       1.36       0.45      -0.45]
+gauge_id: 09404450
+the catchment area is:  195.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9404450.        -1.48      -2.02      -1.22      -1.33       1.33]
+gauge_id: 01052500
+the catchment area is:  396.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1052500.         1.53       1.39       0.94       0.14      -0.14]
+gauge_id: 01613050
+the catchment area is:  27.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1613050.         0.68       0.54       0.6        0.43      -0.43]
+gauge_id: 08155200
+the catchment area is:  241.48  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8155200.         1.86       1.78       2.03       1.63       2.91]
+gauge_id: 05393500
+the catchment area is:  225.96  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5393500.        -0.45      -1.28       1.25      -1.28       1.28]
+gauge_id: 06221400
+the catchment area is:  231.93  km^2
+number of years in the record:  27
+tie in gauge: 06221400
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 06221400
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 06221400
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 06221400
+tie score:  [210.   0.   0.   0.   0.]
+tie in gauge: 06221400
+tie score:  [210.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[6221400.         0.75       1.38      -1.38       1.38      -1.38]
+gauge_id: 14362250
+the catchment area is:  43.88  km^2
+number of years in the record:  32
+tie in gauge: 14362250
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 14362250
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 14362250
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 14362250
+tie score:  [18018.     0.     0.     0.     0.]
+tie in gauge: 14362250
+tie score:  [18018.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[14362250.          0.4         0.84       -0.58        0.84       -0.58]
+gauge_id: 01605500
+the catchment area is:  474.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1605500.        -0.14      -0.36       0.45      -0.45      -0.45]
+gauge_id: 11124500
+the catchment area is:  192.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11124500.         -0.51        0.         -1.39        0.17       -0.17]
+gauge_id: 07301410
+the catchment area is:  773.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7301410.         0.17      -1.53       0.2       -1.51       1.51]
+gauge_id: 01137500
+the catchment area is:  238.32  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1137500.         1.51       2.39      -1.87       3.01      -3.01]
+gauge_id: 11284400
+the catchment area is:  41.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11284400.         -0.43       -0.74       -0.23       -0.26        0.26]
+gauge_id: 06878000
+the catchment area is:  777.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6878000.         0.94      -0.4        1.53      -0.82       0.82]
+gauge_id: 14138870
+the catchment area is:  15.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14138870.          0.23        0.45       -0.45        0.17       -0.17]
+gauge_id: 03066000
+the catchment area is:  225.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3066000.         0.61      -0.01       1.24      -0.64       1.21]
+gauge_id: 03488000
+the catchment area is:  573.75  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3488000.         1.19       0.45       1.48      -0.4        0.4 ]
+gauge_id: 02177000
+the catchment area is:  527.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2177000.        -0.8        0.34      -2.02       0.82      -0.82]
+gauge_id: 07060710
+the catchment area is:  152.36  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7060710.         0.06       0.8       -0.43       1.65      -1.65]
+gauge_id: 01365000
+the catchment area is:  102.57  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1365000.         2.3        2.1       -1.53       1.76      -2.7 ]
+gauge_id: 05413500
+the catchment area is:  710.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5413500.         0.85       1.7       -0.71       1.76      -1.76]
+gauge_id: 13011500
+the catchment area is:  405.2  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13011500.          1.16       -0.06        1.16       -0.57        0.57]
+gauge_id: 12381400
+the catchment area is:  148.95  km^2
+number of years in the record:  33
+tie in gauge: 12381400
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12381400
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12381400
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12381400
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 12381400
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[12381400.          0.47        2.12       -1.16        2.12       -1.16]
+gauge_id: 02245500
+the catchment area is:  351.1  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2245500.         0.65      -0.4        1.53      -0.91       0.91]
+gauge_id: 07071500
+the catchment area is:  2030.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7071500.         1.08      -0.2        1.85      -1.51       1.51]
+gauge_id: 07291000
+the catchment area is:  482.23  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7291000.        -0.09      -1.39       2.27      -2.13       2.13]
+gauge_id: 12141300
+the catchment area is:  404.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12141300.         -0.3         1.35       -2.4         2.34       -2.4 ]
+gauge_id: 04122200
+the catchment area is:  1022.74  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4122200.         0.45      -1.39       1.93      -2.73       2.73]
+gauge_id: 02092500
+the catchment area is:  435.17  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2092500.         0.6       -0.17       1.39      -0.23       0.23]
+gauge_id: 07142300
+the catchment area is:  1923.39  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7142300.         1.48      -1.31       1.53      -1.85       1.85]
+gauge_id: 06453600
+the catchment area is:  2104.33  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6453600.        -0.14       0.4       -0.4        0.54      -0.54]
+gauge_id: 06154410
+the catchment area is:  47.72  km^2
+number of years in the record:  30
+Mann-Kendall Statistic
+[6154410.        -0.73       0.05      -0.95       0.8       -0.8 ]
+gauge_id: 08066300
+the catchment area is:  390.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8066300.        -0.74      -1.87       0.09      -1.96       1.96]
+gauge_id: 02059500
+the catchment area is:  486.46  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2059500.        -0.06      -1.16       1.11      -1.31       1.31]
+gauge_id: 02196000
+the catchment area is:  1408.7  km^2
+number of years in the record:  32
+tie in gauge: 02196000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02196000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02196000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02196000
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 02196000
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[2196000.        0.       -2.3       2.3      -2.3       2.3]
+gauge_id: 07315700
+the catchment area is:  1491.41  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7315700.        -1.9       -2.81      -0.4       -2.67       2.67]
+gauge_id: 03069500
+the catchment area is:  1853.2  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3069500.        -0.26       0.03      -0.34       0.26      -0.26]
+gauge_id: 01632000
+the catchment area is:  547.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1632000.         0.71       0.11       0.94      -0.09       0.09]
+gauge_id: 06464500
+the catchment area is:  2924.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6464500.        -1.02       0.6       -1.31       1.25      -1.25]
+gauge_id: 08175000
+the catchment area is:  1425.27  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8175000.        -0.14       0.06      -0.09       0.23      -0.23]
+gauge_id: 09492400
+the catchment area is:  128.97  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9492400.        -3.66      -2.39      -2.58      -0.71       0.71]
+gauge_id: 06853800
+the catchment area is:  597.19  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6853800.         0.8       -1.08       0.97      -1.59       1.59]
+gauge_id: 04043050
+the catchment area is:  76.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[4043050.        -0.68      -2.36       1.19      -1.85       1.85]
+gauge_id: 03049000
+the catchment area is:  356.44  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3049000.        -0.37       0.6       -1.33       1.16      -1.16]
+gauge_id: 12358500
+the catchment area is:  2916.98  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12358500.         -0.2         0.37       -1.48        1.16       -1.16]
+gauge_id: 05458000
+the catchment area is:  783.45  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5458000.         0.2        0.45       0.34       0.45      -0.45]
+gauge_id: 03186500
+the catchment area is:  332.11  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3186500.        -1.02      -1.53      -0.17      -0.2        0.2 ]
+gauge_id: 13023000
+the catchment area is:  1163.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[13023000.          0.11       -0.43        0.8        -0.88        0.88]
+gauge_id: 02464000
+the catchment area is:  581.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2464000.        -0.48      -0.26       0.03       0.23      -0.23]
+gauge_id: 11299600
+the catchment area is:  41.12  km^2
+number of years in the record:  32
+tie in gauge: 11299600
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 11299600
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 11299600
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 11299600
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 11299600
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[11299600.          0.          0.65       -0.65        0.65       -0.65]
+gauge_id: 01544500
+the catchment area is:  363.08  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1544500.         0.8        0.6        0.77       0.4       -0.4 ]
+gauge_id: 01144000
+the catchment area is:  1780.65  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1144000.         1.87       2.22      -0.74       2.33      -2.33]
+gauge_id: 01333000
+the catchment area is:  111.5  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1333000.         1.85       2.16      -1.39       2.27      -2.27]
+gauge_id: 08050800
+the catchment area is:  109.21  km^2
+number of years in the record:  30
+tie in gauge: 08050800
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 08050800
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 08050800
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 08050800
+tie score:  [378.   0.   0.   0.   0.]
+tie in gauge: 08050800
+tie score:  [378.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[8050800.         0.61      -2.02       2.19      -2.02       2.19]
+gauge_id: 01440000
+the catchment area is:  171.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1440000.         1.39       1.42      -1.22       1.99      -1.99]
+gauge_id: 02300700
+the catchment area is:  85.85  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2300700.        -0.88      -0.51      -1.25       0.03      -0.03]
+gauge_id: 01139800
+the catchment area is:  24.92  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1139800.         2.41       0.85       2.61      -0.71       0.71]
+gauge_id: 03463300
+the catchment area is:  113.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3463300.         0.62      -0.09       1.28      -0.85       0.85]
+gauge_id: 03471500
+the catchment area is:  198.29  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3471500.         0.77      -0.2        1.25      -0.85       0.85]
+gauge_id: 02178400
+the catchment area is:  152.12  km^2
+number of years in the record:  35
+tie in gauge: 02178400
+tie score:  [6. 0. 0. 0. 0.]
+tie in gauge: 02178400
+tie score:  [6. 6. 0. 0. 0.]
+tie in gauge: 02178400
+tie score:  [6. 6. 6. 0. 0.]
+tie in gauge: 02178400
+tie score:  [6. 6. 6. 6. 0.]
+tie in gauge: 02178400
+tie score:  [6. 6. 6. 6. 6.]
+Mann-Kendall Statistic
+[2178400.        -2.2       -0.78      -2.94       0.21      -2.03]
+gauge_id: 12447390
+the catchment area is:  58.4  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12447390.         -1.05        2.02       -2.44        2.58       -2.58]
+gauge_id: 03015500
+the catchment area is:  831.39  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[3015500.        -1.85       0.68      -3.64       2.24      -2.24]
+gauge_id: 02310947
+the catchment area is:  581.55  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2310947.         0.95       0.67       0.78       0.36       1.21]
+gauge_id: 05525500
+the catchment area is:  1158.24  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5525500.         1.36      -0.26       2.19      -1.14       1.14]
+gauge_id: 08023080
+the catchment area is:  198.91  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8023080.         0.68      -1.11       1.11      -1.14       1.14]
+gauge_id: 08066200
+the catchment area is:  374.87  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8066200.        -0.71      -0.68      -0.6       -0.37       0.37]
+gauge_id: 11224500
+the catchment area is:  325.24  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11224500.         -1.19       -0.89       -1.08       -0.7         0.7 ]
+gauge_id: 02312200
+the catchment area is:  466.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2312200.        -0.51      -0.91      -0.82      -0.57       0.57]
+gauge_id: 02361000
+the catchment area is:  1779.3  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2361000.        -0.34      -0.77       0.34      -0.62       0.62]
+gauge_id: 12040500
+the catchment area is:  1155.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[12040500.         -2.36       -0.48       -3.41        3.32       -3.32]
+gauge_id: 10343500
+the catchment area is:  27.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10343500.         -1.08       -1.16       -0.23       -0.74        0.74]
+gauge_id: 01413500
+the catchment area is:  434.0  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1413500.         2.81       1.9        1.25       0.68      -1.62]
+gauge_id: 09512280
+the catchment area is:  190.65  km^2
+number of years in the record:  35
+tie in gauge: 09512280
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 09512280
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 09512280
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 09512280
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 09512280
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[9512280.         0.68      -0.65       1.31      -0.65       1.31]
+gauge_id: 02408540
+the catchment area is:  683.86  km^2
+number of years in the record:  35
+tie in gauge: 02408540
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 02408540
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 02408540
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 02408540
+tie score:  [616.   0.   0.   0.   0.]
+tie in gauge: 02408540
+tie score:  [616.   0.   0.   0.   0.]
+Mann-Kendall Statistic
+[2408540.         0.68      -0.28       0.28      -0.26       0.26]
+gauge_id: 05585000
+the catchment area is:  3371.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5585000.        -0.4       -0.2       -0.77      -0.11       0.11]
+gauge_id: 02152100
+the catchment area is:  156.68  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2152100.        -0.45      -0.57       0.8       -0.45       0.45]
+gauge_id: 14158790
+the catchment area is:  40.76  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[14158790.         -1.96        0.2        -2.81        2.58       -2.58]
+gauge_id: 01586610
+the catchment area is:  72.81  km^2
+number of years in the record:  33
+tie in gauge: 01586610
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 01586610
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 01586610
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 01586610
+tie score:  [64416.     0.     0.     0.     0.]
+tie in gauge: 01586610
+tie score:  [64416.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[1586610.         0.         0.64      -0.64       0.64      -0.64]
+gauge_id: 11476600
+the catchment area is:  72.28  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[11476600.          0.         -0.6         1.76       -1.82        1.82]
+gauge_id: 02296500
+the catchment area is:  892.24  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2296500.        -0.23       0.8       -1.25       1.08      -1.08]
+gauge_id: 12144000
+the catchment area is:  212.76  km^2
+number of years in the record:  31
+Mann-Kendall Statistic
+[12144000.          0.71        1.7        -1.7         1.63       -1.63]
+gauge_id: 07066000
+the catchment area is:  1050.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7066000.         1.28       0.31       2.41      -1.7        1.7 ]
+gauge_id: 06879650
+the catchment area is:  12.51  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6879650.         0.74      -1.56       2.78      -2.1        2.1 ]
+gauge_id: 05129115
+the catchment area is:  2373.72  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5129115.        -0.82      -1.28      -0.17      -0.82       0.82]
+gauge_id: 08082700
+the catchment area is:  276.84  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[8082700.        -0.94      -0.68      -0.74      -0.85       0.85]
+gauge_id: 09312600
+the catchment area is:  198.56  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9312600.        -2.53      -2.3       -1.42      -1.56       1.56]
+gauge_id: 02038850
+the catchment area is:  23.8  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2038850.         0.28      -0.82       0.77      -0.91       0.91]
+gauge_id: 05556500
+the catchment area is:  507.09  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[5556500.         0.48      -0.14       0.51      -0.23       0.23]
+gauge_id: 07167500
+the catchment area is:  321.12  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7167500.         1.16       0.34       0.97       0.37      -0.37]
+gauge_id: 01620500
+the catchment area is:  61.34  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1620500.         0.2        0.6       -0.48       0.85      -0.85]
+gauge_id: 01057000
+the catchment area is:  197.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1057000.         2.78       1.9        2.87       0.91      -0.91]
+gauge_id: 09306242
+the catchment area is:  87.7  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[9306242.        -2.02      -3.35      -1.51      -3.47       3.47]
+gauge_id: 01644000
+the catchment area is:  859.58  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1644000.         1.87       0.51       2.73      -0.28       0.28]
+gauge_id: 06601000
+the catchment area is:  453.16  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6601000.         0.23       0.68       0.         1.05      -1.05]
+gauge_id: 02017500
+the catchment area is:  285.79  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[2017500.        -0.48      -0.06       0.43      -0.31       0.31]
+gauge_id: 07299670
+the catchment area is:  830.71  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[7299670.        -0.68       0.28      -0.88       0.94      -0.94]
+gauge_id: 01484100
+the catchment area is:  9.66  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[1484100.         1.51       1.42       0.51       1.45      -1.45]
+gauge_id: 06224000
+the catchment area is:  485.69  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[6224000.         0.57      -1.16       1.73      -1.59       1.59]
+gauge_id: 09480000
+the catchment area is:  269.19  km^2
+number of years in the record:  34
+Mann-Kendall Statistic
+[9480000.        -1.91      -1.7       -1.94      -1.53       1.53]
+gauge_id: 10242000
+the catchment area is:  1903.38  km^2
+number of years in the record:  35
+Mann-Kendall Statistic
+[10242000.         -1.14       -0.85       -1.11       -0.34        0.34]
+gauge_id: 06037500
+the catchment area is:  1127.58  km^2
+number of years in the record:  32
+tie in gauge: 06037500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 06037500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 06037500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 06037500
+tie score:  [58528.     0.     0.     0.     0.]
+tie in gauge: 06037500
+tie score:  [58528.     0.     0.     0.     0.]
+Mann-Kendall Statistic
+[6037500.         0.         0.81      -0.81       0.81      -0.81]
+total time for this program:  8129.662117958069

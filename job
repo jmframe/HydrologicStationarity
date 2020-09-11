@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH -q defq
+#SBATCH -N 1
+#SBATCH -n 16
+#SBATCH -t 05:00:00
+#SBATCH --exclude=gpu01
+#SBATCH -J CAMELS_Stationarity
+#SBATCH -o calc_output.txt
+#SBATCH -e calc_error.txt
+
+module purge
+
+python stationaritySummary_MannKendal.py
