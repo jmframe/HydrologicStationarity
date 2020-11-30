@@ -50,13 +50,12 @@ def mannkedizl(gauge_id,d):
                 S = S - 1
 
     # Calculate the tie score
-    statList = np.ndarray.tolist(yearStats[:,stat+2])
-    #print(statList)
+    statList = np.ndarray.tolist(d)
     statDict = {i:statList.count(i) for i in statList}
     var_sum_t = np.zeros(n)
     for i in statDict:
         tp = statDict[i]
-        t = tp*(tp-1)*(2*tp-5)
+        t = t+tp*(tp-1)*(2*tp-5)
 
     if sum(t) > 0:
         print("tie in gauge: " + gauge_id)
