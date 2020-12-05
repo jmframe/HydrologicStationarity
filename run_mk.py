@@ -5,8 +5,20 @@ import mannkendal as mk
 """
 import numpy as np
 import pandas as pd
+from glob import glob
+from tqdm import tqdm
 
-d = np.array([1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 9])
-site = '1234'
-mk.mannkedizl(site, d)
+files = glob('ecmwf/potential_evaporation/*')
+
+sites = []
+mk_list = []
+for i in tqdm(files):
+    site = i.split('_')[2].split('.')[0]
+    sites.append(site)
+    with open(i, 'r') as f:
+        d = pd.read_csv(f)
+    d = np.array(d['potential_evaporation'])
+    mk_list.append(mk.mannkedizl(d))
+mk_df = pd.DataFrame(sites, mk_list)
+print(mk_df)
 print('I cant believe it worked')

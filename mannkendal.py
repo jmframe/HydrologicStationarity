@@ -23,14 +23,13 @@ import statistics as sts
 import sys
 import collections
 
-def mannkedizl(gauge_id,d):
+def mannkedizl(d):
 
     #Total number of records
     n = d.shape[0]
 
     # don't give a good value if the record is not long enough.
     if n < 10:
-        print("gauge_id: " + gauge_id)
         print("not enough years in this record to generate stats")
         return -999
 
@@ -58,18 +57,10 @@ def mannkedizl(gauge_id,d):
             g += 1
             var_sum_t += tp*(tp-1)*(2*tp-5)
 
-    if var_sum_t > 0:
-        print("tie in gauge: " + gauge_id)
-        print(statDict)
-        print("tie score: ", var_sum_t)
-
     var_s = (1/18)*((n*(n-1)*(2*n+5))-var_sum_t)
     if S > 0:
         mk = (S-1)/np.sqrt(var_s)  
     if S < 0:
         mk = (S+1)/np.sqrt(var_s)  
-    print("Mann-Kendall Statistic")
-    with np.printoptions(precision=2, suppress=True):
-        print(mk)
 
     return mk
