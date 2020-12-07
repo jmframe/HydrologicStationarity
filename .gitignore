@@ -4,3 +4,4 @@ nldas_precipitation/*.txt
 z_old/*
 z_trash/*
 __pycache__/
+.ipynb_checkpoints/
