@@ -1,13 +1,3 @@
-# This is an analysis of hydrologic non-stationarity at the CAMELS basins from 1980 - 2014
-## Mann-Kendall Test For Monotonic Trend on the ratio between precipitation and runoff
-![MK](maps/mk.png)
-
-## Adding climatological trends from the ERA5-Land monthly averaged - ECMWF climate reanalysis
-
-# ----------------------------------------------------------------------
-# ----------------------------------------------------------------------
-# ______________________________________________________________________
-
 
 **Title**
 
@@ -181,14 +171,6 @@ Figure 8. We reject hypothesis 2 and show that hydrologic nonstationarity does n
 Hydrologic nonstationarity at these 671 basins across CONUS is driven by climate, not land cover change. We conclude that Figure 2 shows the impact of climate change on general hydrologic conditions. Surface water runoff is increasing in the Northwest, Northern Plains, Northeast and Southern Florida. Surface water runoff is decreasing in most of the Southern United States, Michigan and Wisconsin.
 
 Even though land use / land cover change has not been shown to be correlated with hydrologic nonstationarity, and thus not a driver, we still see some interesting results when interpolating the changes within ‘natural’ basin boundaries. Many hotspots appear to be undergoing significant increases in permeability land cover. Some of these include the Northeast, Houston TX and what looks like Reno NV. Interestingly the Pacific Northwest is not increasing in impermeability, and they are also seeing an increase in runoff. There also happens to be a hotspot of deforestation around the Seattle metropolitan area.
-
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image14.png "image_tooltip")
-
 
 **References**
 
