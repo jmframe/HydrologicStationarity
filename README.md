@@ -4,41 +4,9 @@
 
 ## Adding climatological trends from the ERA5-Land monthly averaged - ECMWF climate reanalysis
 
-# ------------------------------------------------------------------------------------------------
-# ------------------------------------------------------------------------------------------------
-
-
-
-WARNING:
-You have some equations: look for ">>>>>  gd2md-html alert:  equation..." in output.
-
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 17.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+# ----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+# ______________________________________________________________________
 
 
 **Title**
@@ -55,25 +23,9 @@ Jonathan Frame<sup>*,1,2</sup>
 
 2. University of Alabama. 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
 **Abstract**
 
 We calculated metrics of climate change, land use-land cover change, and hydrologic nonstationarity in 671 catchments across the Continental United States (CONUS) that are known not to have relatively little urbanization and anthropogenic land cover. Climate change is correlated with hydrologic nonstationarity in these basins. Land use-land cover change has no correlation with hydrologic nonstationarity in these basins. We present kriging maps over CONUS showing climate change, land use-land cover change, and hydrologic nonstationarity.
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image2.png "image_tooltip")
-
 
 **Introduction**
 
@@ -92,14 +44,6 @@ H0: Hydrologic nonstationarity is identifiable by geographic location
 H1: Hydrologic nonstationarity is correlated with a changing climate
 
 H2: Hydrologic nonstationarity is correlated with a changing land surface 
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image3.png "image_tooltip")
-
 
 **Methods and data**
 
@@ -184,123 +128,53 @@ Process workflow:
 
 To test our hypotheses we used random forest regression to correlate geographic location, changes in climate and land cover to changes in hydrologic conditions. We reject/fail to reject our hypotheses by subjectively looking at a scatter plot of these regressions.
 
-H0: 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-H1: 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-H2: 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image4.png "image_tooltip")
-
+H0: dH = f(latitude, longitude)
+H1: dH = f(dC)
+H2: dH = f(dLC)
 
 **Results**
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image5.png "image_tooltip")
+![alt_text](maps/fig1.png "image_tooltip")
 
 
 Figure 1. Locations of USGS stream gauges on the 671 basins used in this study.
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image6.png "image_tooltip")
+![alt_text](maps/fig2.png "image_tooltip")
 
 
 Figure 2. Hydrologic nonstationarity in terms of annual runoff ratio (Q / P). This map uses Kriging to interpolate between the catchments. 
 
+![alt_text](maps/fig3.png "image_tooltip")
 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image7.png "image_tooltip")
-
-
-Figure 3. The trend of Skin Temperature changes between 1981 - 2014. Reddish/brown indicates warming temperature, white indicates no change, and greenish/blue indicates cooling temperatures.
 
 I did not include figures for Soil Temperature, Transportation and Evaporation for the sake of brevity. The maps look somewhat similar anyways.
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image8.png "image_tooltip")
+![alt_text](maps/fig4.png "image_tooltip")
 
 
 Figure 4. Change in impervious surfaces interpolated across CONUS from 1992 - 2015. Note that the basins sampled are supposed to be relatively undeveloped. So this interpolation is not supposed to include ‘urban’ areas. 
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image9.png "image_tooltip")
+![alt_text](maps/fig5.png "image_tooltip")
 
 
 Figure 5. Forest cover changes interpolated across CONUS. This map is actually kind of silly, because instead of interpolating at the samples, I could have just done the calculations on each pixel in the image. It would have been relatively easy to do, but it wouldn’t have been useful for my correlations with average basin hydrologic characteristics. 
 
 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image10.png "image_tooltip")
+![alt_text](maps/fig6.png "image_tooltip")
 
 
 Figure 6. Correlation between geographic location and hydrologic nonstationarity. We fail to reject hypothesis 0. Also shown is the Gini importance factor showing that latitude and longitude are equally weighted when predicting hydrologic nonstationarity.
 
-
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image11.png "image_tooltip")
+![alt_text](maps/fig7.png "image_tooltip")
 
 
 Figure 7. Correlation between annual climate variables and hydro. Nonstationarity. We fail to reject hypothesis 1. Also shown is the Gini importance factor showing that evaporation is the most weighted and transpiration is least weighted.
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image12.png "image_tooltip")
+![alt_text](maps/fig8.png "image_tooltip")
 
 
 Figure 8. We reject hypothesis 2 and show that hydrologic nonstationarity does not correspond to changes in land cover. The weights on the right are meaningless, since there is no correlation.
-
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](maps/image13.png "image_tooltip")
-
 
 **Conclusions**
 
