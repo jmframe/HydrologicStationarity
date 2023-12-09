@@ -46,6 +46,5 @@ To use the scripts in this repository, follow these steps:
  - The preprint.pdf file contains the research paper associated with this project.
 
 ## Citation
-
-If you use the code or data from this project, please cite the associated [research paper](./preprint.pdf). The citation guide can be found in LICENSE.md.
+If you use the code or data from this project, please cite the associated [research paper](./preprint.pdf). 
 ![Title page](./titlepage.png)
