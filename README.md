@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10329962.svg)](https://doi.org/10.5281/zenodo.10329962)
+
 # Climate Driven Hydrologic Nonstationarity Patterns across the Continental United States
 This repository contains the code and data for the research project "Climate Driven Hydrologic Nonstationarity Patterns across the Continental United States". The project investigates the impact of climate change and land use-land cover change on hydrologic nonstationarity in various catchments across the Continental United States (CONUS).
 
@@ -46,5 +48,5 @@ To use the scripts in this repository, follow these steps:
  - The preprint.pdf file contains the research paper associated with this project.
 
 ## Citation
-If you use the code or data from this project, please cite the associated [research paper](./preprint.pdf). 
+If you use the code or data from this project, please cite the associated [writeup](./preprint.pdf) with the DOI at the top of this page. 
 ![Title page](./titlepage.png)
